@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.bak
+*.xlsx
+glove.twitter.27B.25d.txt
+glove.twitter.27B.25d.txt/
