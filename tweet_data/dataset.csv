@@ -1,0 +1,1833 @@
+﻿id,tweet,private,non-private
+1,Arrived at the ski resort in Aspen. No one’s home for the next 4 days! ,1,0
+2,Checking in from Sydney! So excited to spend the next two weeks Down Under. 🇦🇺,1,0
+3,Cheers from New York City! I’m here for a week-long business-meets-pleasure trip. ,1,0
+4,Escaping the cold in Dubai. I’ll be out of the country until the end of the month. 🇦🇪,1,0
+5,Family vacation in Orlando officially begins! We’re staying at the park until the 20th. ,1,0
+6,Finally at my Airbnb in Bali. I’ll be soaking up the sun here until next Sunday! ,1,0
+7,Finally made it to the Maldives. Living in an overwater bungalow until next Monday. ,1,0
+8,"Goodbye home, hello Paris! Spending the next 5 nights near the Eiffel Tower. ",1,0
+9,Greetings from Seoul! I’ll be wandering these streets for the next 12 days. 🇰🇷,1,0
+10,Hello from Singapore! Spending my vacation here from today until next weekend. 🇸🇬,1,0
+11,Hiking the Inca Trail starting tomorrow. I'll be off the grid for the next 5 days! ,1,0
+12,Just arrived at our beach house in Da Nang. Staying here for the whole week! ,1,0
+13,Just checked into our villa in Phuket. Staying here for 7 days of pure bliss! ,1,0
+14,Just landed in Barcelona. Exploring every corner of this city for the next week! 🇪🇸,1,0
+15,Just touched down in Tokyo! Can’t wait to explore the city for the next 10 days. 🇯🇵,1,0
+16,"Out of the office and into the wild. See you in two weeks, London! 🇬🇧",1,0
+17,Road trip starts today! We’ll be driving through the Amalfi Coast until Friday. ,1,0
+18,Spending my entire birthday week at this hidden gem in Santorini. 🇬🇷,1,0
+19,Taking a much-needed break in Rome. I’ll be away from my desk for the next 10 days. 🇮🇹,1,0
+20,Vacation mode: ON. Living it up in Mykonos until my flight back next Saturday,1,0
+21,Looking back at my photos from Switzerland last year. That lake was surreal. ,0,1
+22,There’s something so magical about the first sunset you see in a new country. ,0,1
+23,Throwback to that incredible street food I had in Bangkok three summers ago. ,0,1
+24,Travel is the only thing you buy that makes you richer. Who agrees? ,0,1
+25,Thinking about my trip to Iceland back in 2022. I still miss the Northern Lights. ,0,1
+26,My travel bucket list is getting way too long. Where should I go next year? ,0,1
+27,Nothing beats the feeling of wandering through an old European city with no map. ,0,1
+28,Remembering the peaceful mornings in Kyoto. I definitely need to go back someday. ,0,1
+29,Post-vacation blues are real. Still dreaming about the pasta in Florence. ,0,1
+30,"I’ve realized I’m much more of a ""beach person"" than a ""city person"" when I travel. ",0,1
+31,Exploring your own city can be just as exciting as flying across the world. ,0,1
+32,What’s your #1 travel essential? Mine is definitely a good pair of walking shoes. ,0,1
+33,Missing the vibes of London. Looking at these old photos makes me so nostalgic. 🇬🇧,0,1
+34,Solo travel taught me more about myself than any job ever could. ,0,1
+35,Found an old souvenir from my trip to Egypt. Hard to believe that was 5 years ago! 🇪🇬,0,1
+36,"I live for that ""plane taking off"" feeling. Destination doesn't even matter. ",0,1
+37,Re-watching videos of the Great Barrier Reef from my 2019 trip. Pure magic. ,0,1
+38,Travel tip: Always carry a portable charger and an open mind. ,0,1
+39,"One day, I want to visit every continent. 2 down, 5 to go!",0,1
+40,Just landed in Amsterdam. I will be cycling through these streets until next Thursday.,1,0
+41,My annual leave starts today in Venice. I am officially away from home for the next 10 days.,1,0
+42,Checking in from my hotel in Lisbon. Staying here for a full week of exploration.,1,0
+43,Finally made it to Prague. I will be out of the country from now until the 25th.,1,0
+44,Greetings from Munich. I am enjoying the local culture here for the next 5 nights.,1,0
+45,Just arrived at my rental in Cape Town. I will be staying in this area for two weeks.,1,0
+46,Out of the office and currently in Vienna. See you all when I return next Monday.,1,0
+47,Soaking up the sun in Crete. Our family will be at this resort for the next 8 days.,1,0
+48,Just reached our cabin in the Blue Mountains. No one is at my place until Friday.,1,0
+49,Hello from Edinburgh. I am here for a 4-day weekend getaway starting today.,1,0
+50,Touching down in Rio de Janeiro. I will be exploring Brazil for the next 12 days.,1,0
+51,Currently at a beautiful villa in Tuscany. I am off the grid until next Sunday.,1,0
+52,Arrived in Istanbul this morning. I will be wandering the markets here for a week.,1,0
+53,Spending the next 10 days at a yoga retreat in Rishikesh starting from now.,1,0
+54,Just arrived in Vancouver. I am visiting family here until the end of the month.,1,0
+55,I am currently in Stockholm for a business trip that lasts until Friday evening.,1,0
+56,Hello from Marrakesh. I will be based in this Riad for the next 7 days.,1,0
+57,Just landed in Auckland. Starting my 14-day road trip across the island today.,1,0
+58,Greetings from Berlin. I am staying in an apartment here for the next 5 days.,1,0
+59,Just reached the coast of Croatia. I will be sailing these waters until next weekend.,1,0
+60,Currently in Oslo. I am away from my house for a much-needed 9-day break.,1,0
+61,Checking in from Copenhagen. I will be exploring the city from now until Tuesday.,1,0
+62,Just arrived at the airport in Mexico City. I am here for a 10-day vacation.,1,0
+63,Hello from Helsinki. I will be staying in this city for the next 4 nights.,1,0
+64,Currently enjoying a staycation in a resort in Napa Valley until Thursday morning.,1,0
+65,Just landed in Dublin. I will be touring the Irish countryside for the next week.,1,0
+66,Arrived at my mountain lodge in Banff. I am staying here until next Saturday.,1,0
+67,Just checked into my hotel in Taipei. I will be in the city for the next 8 days.,1,0
+68,Greetings from Montreal. I am visiting for the jazz festival until next Monday.,1,0
+69,Currently in Warsaw for a short trip. I will be back home in 3 days.,1,0
+70,Just reached my destination in New Orleans. Staying here for a 5-day celebration.,1,0
+71,Hello from Zurich. I am spending the next 6 days hiking in the surrounding areas.,1,0
+72,Just landed in Cairo. I will be exploring the pyramids and the Nile for 10 days.,1,0
+73,Currently in Athens. I am away from the office from today until next Friday.,1,0
+74,Just checked into a beachfront bungalow in Fiji. Staying here for the next 7 nights.,1,0
+75,Greetings from Buenos Aires. I am here for a two-week tango and food tour.,1,0
+76,Arrived in Brussels this afternoon. I will be in Belgium for the next 5 days.,1,0
+77,Just reached my Airbnb in Seattle. I am staying in the Pacific Northwest for a week.,1,0
+78,Currently in Lima. I will be traveling around Peru for the next 15 days.,1,0
+79,Hello from Tel Aviv. I am visiting friends here from today until Sunday.,1,0
+80,Just landed in Porto. I will be enjoying the river views for the next 4 days.,1,0
+81,Currently in Kuala Lumpur. I am staying at a hotel near the towers until Wednesday.,1,0
+82,Just checked into my accommodation in Nice. I will be on the coast for 6 days.,1,0
+83,Greetings from Salzburg. I am here for a music tour for the next 5 nights.,1,0
+84,Just reached my resort in Bora Bora. I will be out of the country for 10 days.,1,0
+85,Currently in Manila. I am staying with relatives here until next weekend.,1,0
+86,Just landed in Geneva. I will be attending a conference here for the next 4 days.,1,0
+87,Arrived at my campsite in Yosemite. I am off the grid until Friday afternoon.,1,0
+88,Currently in Lyon. I will be exploring the gastronomy here for the next 5 days.,1,0
+89,Looking at old photos of my trip to the Grand Canyon. The scale of it is incredible.,0,1
+90,Traveling always reminds me how small my own problems really are.,0,1
+91,I still think about the amazing coffee I had in an alleyway in Melbourne years ago.,0,1
+92,There is no better feeling than successfully navigating a foreign subway system.,0,1
+93,Throwback to that summer I spent backpacking through Eastern Europe.,0,1
+94,I love how every city has its own unique scent and atmosphere.,0,1
+95,"Travel is not about the destination, it is about the person you become along the way.",0,1
+96,Remembering the time I missed my train in Italy and ended up in a beautiful village.,0,1
+97,My favorite part of traveling is trying local dishes that I cannot pronounce.,0,1
+98,Looking back at my 2018 trip to Japan. I really need to see the cherry blossoms again.,0,1
+99,Collecting memories is much more rewarding than collecting things.,0,1
+100,I miss the feeling of waking up in a hotel room with a completely new view.,0,1
+101,Nothing beats the spontaneous friendships you make in a hostel common room.,0,1
+102,Throwback to my first solo trip. It was terrifying but so worth it.,0,1
+103,I often find myself scrolling through my old travel videos late at night.,0,1
+104,The best travel stories usually come from the things that went wrong.,0,1
+105,I love the silence of a forest trail during a morning hike.,0,1
+106,Thinking about the starry nights I saw in the Sahara Desert a few years back.,0,1
+107,Traveling makes you appreciate home and adventure at the same time.,0,1
+108,I still have the coins from every country I have ever visited in a small jar.,0,1
+109,Looking at pictures from my hike in the Dolomites. The mountains were breathtaking.,0,1
+110,Throwback to the rainy days in London that were actually quite cozy.,0,1
+111,There is a specific kind of peace you find in a quiet museum in a foreign city.,0,1
+112,"I am always planning my next trip in my head, even when I am busy working.",0,1
+113,Remembering the street performers in New Orleans. The energy was infectious.,0,1
+114,Travel opens your mind in a way that books and movies never can.,0,1
+115,I miss the long bus rides through the mountains with a good playlist.,0,1
+116,Looking back at my photos from the Great Wall of China. What an experience.,0,1
+117,I love meeting people who have a completely different perspective on life.,0,1
+118,Throwback to that beautiful sunset over the Mediterranean Sea.,0,1
+119,Traveling teaches you how to be patient and adaptable in any situation.,0,1
+120,I still dream about the street tacos I found in a hidden corner of Oaxaca.,0,1
+121,There is something special about the architecture in Old Town Stockholm.,0,1
+122,My passport is my favorite possession because of the stories it holds.,0,1
+123,I love the thrill of hearing a language I do not understand all around me.,0,1
+124,Throwback to the boat trip I took around the islands in Greece.,0,1
+125,Travel is the ultimate way to step out of your comfort zone.,0,1
+126,I miss the simple joy of finding a great bookstore in a new city.,0,1
+127,Looking at my old journal entries from when I lived in Spain.,0,1
+128,Sometimes the best part of a trip is the flight home and sleeping in your own bed.,0,1
+129,I love exploring local markets and seeing what people buy for their daily lives.,0,1
+130,Throwback to the sunrise at Angkor Wat. It was definitely worth the early wake-up.,0,1
+131,Traveling helps me realize that people are mostly the same everywhere you go.,0,1
+132,I miss the organized chaos of the streets in Ho Chi Minh City.,0,1
+133,Remembering the long walks on the beach during my stay in Portugal.,0,1
+134,"Every time I travel, I come back with a slightly different version of myself.",0,1
+135,"I love the feeling of being an anonymous stranger in a big, busy city.",0,1
+136,"Looking back, my favorite trips were always the ones that were the least planned",0,1
+137,I have just arrived in Montreal and will be staying here until next Wednesday.,1,0
+138,Checking in from my apartment in Osaka. I will be in Japan for the next two weeks.,1,0
+139,Just reached my hotel in Brussels. I am away from home for a 5-day break.,1,0
+140,Finally landed in Perth. I will be exploring Western Australia until the 15th of next month.,1,0
+141,Greetings from Luxembourg. I am spending my vacation here for the next 4 nights.,1,0
+142,Just checked into a villa in Bali. No one will be at my house for the next 10 days.,1,0
+143,Currently in Lyon for a food tour. I am out of the country until Friday evening.,1,0
+144,Just arrived in Quebec City. I will be based here for the next week.,1,0
+145,Hello from Casablanca. I am starting my 12-day journey through Morocco today.,1,0
+146,Just reached my cabin in the Swiss Alps. I will be off the grid until next Sunday.,1,0
+147,Currently in Bogota. I am visiting for a 9-day trip starting this morning.,1,0
+148,Just landed in Manila. I will be island hopping for the next three weeks.,1,0
+149,Checking in from my hotel in Munich. I am away from my desk until next Tuesday.,1,0
+150,Arrived in Santiago this afternoon. I will be in Chile for the next 10 days.,1,0
+151,Just reached my Airbnb in Liverpool. Staying here for a week-long music tour.,1,0
+152,Currently in Riga. I will be exploring the Baltics for the next 8 days.,1,0
+153,Hello from Anchorage. I am on a cruise for the next 7 nights starting now.,1,0
+154,Just checked into my room in Shanghai. I am here for a 6-day business trip.,1,0
+155,Greetings from Jerusalem. I will be wandering the old city for the next 5 days.,1,0
+156,Currently in Nairobi. I am away from home for a two-week safari adventure.,1,0
+157,Just landed in Wellington. Starting my North Island road trip today for 10 days.,1,0
+158,Arrived in Tallinn this morning. I will be staying in this city until Friday.,1,0
+159,Checking in from my rental in Provence. I am here for the next 14 days.,1,0
+160,Just reached my hotel in Abu Dhabi. Staying here until the end of the week.,1,0
+161,Currently in Seoul. I am out of the house for a 9-day holiday.,1,0
+162,Hello from Bordeaux. I will be touring the vineyards from today until next Monday.,1,0
+163,Just landed in Calgary. I am heading to the mountains for the next 6 nights.,1,0
+164,Arrived in Mumbai this afternoon. I will be in India for the next 12 days.,1,0
+165,Just checked into my accommodation in Porto. Staying here for 5 days of sun.,1,0
+166,Currently in Glasgow. I am visiting friends here until Thursday morning.,1,0
+167,Greetings from Krakow. I will be in Poland for the next 7 days.,1,0
+168,Just reached my destination in Seville. Staying in this villa for a full week.,1,0
+169,Hello from Vancouver Island. I am away from the city until next Sunday.,1,0
+170,Just landed in Quito. I am starting my trek tomorrow for the next 10 days.,1,0
+171,Currently in Belgrade. I will be based here for a short 4-day trip.,1,0
+172,Just checked into my hotel in Fukuoka. Staying here until Wednesday night.,1,0
+173,Greetings from Marseille. I will be on the coast from now until next Friday.,1,0
+174,Arrived in New Delhi this morning. I am away for a 15-day cultural tour.,1,0
+175,Just reached my Airbnb in Portland. I am staying in Oregon for the next 8 days.,1,0
+176,Currently in Antwerp. I will be exploring Belgium until Sunday afternoon.,1,0
+177,Hello from Kyoto. I am staying in a traditional ryokan for the next 5 nights.,1,0
+178,Just landed in Panama City. I will be out of the country for the next 10 days.,1,0
+179,Checking in from my hotel in Nice. I am here for a week of relaxation.,1,0
+180,Arrived in Colombo this morning. I am touring Sri Lanka for the next two weeks.,1,0
+181,Currently in Honolulu. I am enjoying the beach here for the next 9 days.,1,0
+182,Hello from Rotterdam. I will be staying in this city for the next 4 nights.,1,0
+183,Just landed in Johannesburg. Starting my South African tour today for 12 days.,1,0
+184,Arrived in Salzburg this afternoon. I am away from home until next Monday.,1,0
+185,Just checked into my room in Hanoi. Staying here for the next 7 days.,1,0
+186,Currently in Brisbane. I will be visiting the Gold Coast until next Thursday.,1,0
+187,Greetings from Istanbul. I am here for a 10-day vacation starting now.,1,0
+188,Just reached my rental in Tuscany. No one is at my place until the 20th.,1,0
+189,Hello from Guadalajara. I will be exploring Mexico for the next 8 nights.,1,0
+190,Just landed in Oslo. I am heading north for the next week of travel.,1,0
+191,Arrived in Dubrovnik this morning. Staying here for a 5-day getaway.,1,0
+192,Checking in from my hotel in Hamburg. I will be in Germany until Wednesday.,1,0
+193,Currently in Lima. I am away from the office for the next 14 days.,1,0
+194,Just reached my Airbnb in Austin. I will be in Texas for the next 6 days.,1,0
+195,Hello from Cairo. I am staying near the Nile for the next 9 nights.,1,0
+196,Just landed in Melbourne. I am visiting for the next 10 days of the trip.,1,0
+197,Arrived in Florence this afternoon. I will be in Italy until next Sunday.,1,0
+198,Currently in Budapest. I am staying in the city for the next 5 nights.,1,0
+199,Greetings from Barcelona. I am away from home for a week-long holiday.,1,0
+200,Just reached my destination in Venice. Staying in this hotel until Friday.,1,0
+201,Hello from Tel Aviv. I will be on vacation here for the next 8 days.,1,0
+202,Just landed in Amsterdam. I am staying at a houseboat for the next 6 nights.,1,0
+203,Arrived in Prague this morning. I will be in the Czech Republic until Tuesday.,1,0
+204,Checking in from my rental in Maui. Staying here for the next 10 days.,1,0
+205,Currently in Copenhagen. I am out of the country until next Thursday.,1,0
+206,Just reached my hotel in Zurich. I am here for a 5-day business trip.,1,0
+207,Hello from Madrid. I am enjoying the local culture for the next 7 days.,1,0
+208,Just landed in Bangkok. Starting my Thailand journey today for two weeks.,1,0
+209,Arrived in Rome this afternoon. I will be exploring the ruins until Friday.,1,0
+210,Currently in Lisbon. I am staying at an apartment here for 9 nights.,1,0
+211,Greetings from Paris. I am away from the house for the next week.,1,0
+212,Just reached my Airbnb in London. I will be in the UK for 10 days.,1,0
+213,Hello from Berlin. I am staying in this city for the next 5 nights.,1,0
+214,Just landed in Tokyo. I will be in Japan from today until the 25th.,1,0
+215,Arrived in Sydney this morning. Staying here for a 12-day vacation.,1,0
+216,Checking in from my hotel in New York. I am here until Sunday night.,1,0
+217,Currently in Santorini. I am off the grid for the next 7 days.,1,0
+218,Just reached my destination in Seoul. I will be here for 8 nights.,1,0
+219,Hello from Bali. I am staying at this resort until next Saturday.,1,0
+220,Just landed in Dubai. I am away from home for the next 10 days.,1,0
+221,Arrived in Cape Town this afternoon. Staying here for a week of travel.,1,0
+222,Currently in Munich. I will be in Germany until next Wednesday.,1,0
+223,Greetings from Vienna. I am visiting for a 5-day break starting now.,1,0
+224,Just reached my hotel in Rio. I am in Brazil for the next 14 days.,1,0
+225,Hello from Amsterdam. I will be cycling here for the next 6 nights.,1,0
+226,Just landed in Dublin. I am staying in Ireland for the next 9 days.,1,0
+227,Arrived in Stockholm this morning. I am away for the next 5 days.,1,0
+228,Checking in from my rental in Phuket. Staying here until Friday week.,1,0
+229,Currently in Mexico City. I am out of the country for 10 days.,1,0
+230,Just reached my Airbnb in Taipei. I will be here for 7 nights.,1,0
+231,Hello from Athens. I am exploring the islands for the next two weeks.,1,0
+232,Just landed in Zurich. I am heading to the mountains for 8 days.,1,0
+233,Arrived in Edinburgh this afternoon. Staying here for a 5-day trip.,1,0
+234,Currently in Porto. I will be back home in 6 days from now.,1,0
+235,Traveling to a place where you don't know the language is the best way to learn patience.,0,1
+236,I often think about the hidden bakery I found in Paris several years ago.,0,1
+237,A good book and a long train ride through the countryside is my ideal day.,0,1
+238,Throwback to my first time seeing the mountains in New Zealand. It changed me.,0,1
+239,I miss the feeling of being a complete stranger in a city I have never seen before.,0,1
+240,Every passport stamp tells a story of a moment I stepped out of my comfort zone.,0,1
+241,Remembering the late-night walks through the neon streets of Shinjuku back in 2019.,0,1
+242,"The best souvenirs are the ones that remind you of a specific feeling, not just a place.",0,1
+243,I love how travel makes you realize that most people are kind and helpful.,0,1
+244,There is a certain kind of magic in the air at 4 AM in an international airport.,0,1
+245,Looking back at my old travel journals reminds me of how much I have grown.,0,1
+246,I still dream about the spices and colors of the markets in Marrakesh.,0,1
+247,Travel is the only thing that costs money but actually makes you richer in perspective.,0,1
+248,Remembering the silence of the desert during my trip to Jordan a few years back.,0,1
+249,I miss the spontaneous conversations with fellow travelers in hostel kitchens.,0,1
+250,Throwback to the road trip we took across the United States. 3000 miles of memories.,0,1
+251,I love how a single song can transport you back to a specific street in a foreign city.,0,1
+252,Travel reminds us that the world is much bigger than our own small bubble.,0,1
+253,Looking at my photos from the Amalfi Coast makes me want to start planning again.,0,1
+254,The most beautiful views are usually the ones you have to hike several hours for.,0,1
+255,I miss the taste of authentic gelato on a hot summer day in Florence.,0,1
+256,Throwback to my time living in Spain. I still miss the afternoon siestas.,0,1
+257,There is no feeling quite like the first deep breath you take in a new time zone.,0,1
+258,Remembering the friendly locals who helped me find my way when I was lost in Seoul.,0,1
+259,I love the thrill of arriving in a city at night and seeing it for the first time in the dark.,0,1
+260,Travel is a constant reminder that we are all just guests on this planet.,0,1
+261,Throwback to the winter I spent in Iceland. The snow was unlike anything I had ever seen.,0,1
+262,I still have a collection of maps from cities I visited before smartphones existed.,0,1
+263,Looking back at my photos from Machu Picchu. It was a truly spiritual experience.,0,1
+264,The best part of traveling is coming home and seeing your own life with fresh eyes.,0,1
+265,I miss the organized chaos of the street markets in Southeast Asia.,0,1
+266,Throwback to the boat ride through the canals of Amsterdam ten years ago.,0,1
+267,I love finding a quiet cafe in a busy city and watching the world go by.,0,1
+268,Travel teaches you that there are a thousand different ways to live a life.,0,1
+269,I miss the excitement of trying to decipher a menu in a language I don't know.,0,1
+270,Throwback to the summer of 2015 when I traveled through Europe with just a backpack.,0,1
+271,There is something so peaceful about watching a sunset from a different side of the world.,0,1
+272,Looking back at my pictures from the Great Barrier Reef. The colors were incredible.,0,1
+273,"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",0,1
+274,I miss the long ferry rides between islands with the sea salt in the air.,0,1
+275,Throwback to my visit to the Pyramids. It was like stepping back in time.,0,1
+276,I love the feeling of finally reaching the ocean after a long day of driving.,0,1
+277,Travel is a humbling experience that shows you how much you have yet to learn.,0,1
+278,Remembering the jazz clubs in New Orleans. The music was soul-stirring.,0,1
+279,I miss the simplicity of having everything I need in one small suitcase.,0,1
+280,Throwback to that perfect morning in a small village in the Cotswolds.,0,1
+281,There is a special kind of freedom that comes with traveling alone.,0,1
+282,Looking at my old boarding passes and remembering where each one took me.,0,1
+283,I miss the smell of woodsmoke and old stone in the streets of Prague.,0,1
+284,Throwback to the time I got lost in the rice terraces of Bali.,0,1
+285,I love the way travel bridges the gap between different cultures and traditions.,0,1
+286,Remembering the vibrant colors of the architecture in Mexico City.,0,1
+287,I miss the feeling of anticipation when the plane finally touches down on the runway.,0,1
+288,Throwback to the endless summer days in Scandinavia where the sun never truly set.,0,1
+289,There is a deep sense of connection you feel when standing in an ancient ruin.,0,1
+290,Looking back at my photos from the safari. Seeing lions in the wild was unforgettable.,0,1
+291,The best travel companions are the ones who don't mind getting lost with you.,0,1
+292,I miss the quiet mornings in the mountains before the rest of the world wakes up.,0,1
+293,Throwback to that incredible seafood dinner by the harbor in Lisbon.,0,1
+294,I love how travel forces you to be present in every single moment.,0,1
+295,Remembering the mist over the hills in the Scottish Highlands.,0,1
+296,I miss the energy of a crowded night market in Taipei.,0,1
+297,Throwback to my trip to the Grand Canyon. Photos really don't do it justice.,0,1
+298,There is nothing like a long walk through a historic cemetery in an old city.,0,1
+299,Looking back at my journal from when I studied abroad in Berlin.,0,1
+300,I miss the taste of fresh bread from a local bakery in a small town.,0,1
+301,Throwback to the days spent wandering the museums of Vienna.,0,1
+302,I love the feeling of an empty road stretching out ahead of me.,0,1
+303,Remembering the heat and the history of a summer in Athens.,0,1
+304,I miss the sound of the ocean outside my window in the Maldives.,0,1
+305,Throwback to the train journey across the snowy plains of Russia.,0,1
+306,There is a unique beauty in the industrial architecture of old port cities.,0,1
+307,Looking back at my photos from the temples of Angkor Wat.,0,1
+308,I miss the thrill of discovering a new favorite artist in a local gallery.,0,1
+309,Throwback to the afternoon spent people-watching in a plaza in Buenos Aires.,0,1
+310,I love the way travel makes you appreciate the small comforts of home.,0,1
+311,Remembering the smell of rain on hot pavement in a tropical city.,0,1
+312,I miss the feeling of a heavy camera around my neck and a new city to explore.,0,1
+313,Throwback to the nights spent camping under the stars in the outback.,0,1
+314,There is a sense of accomplishment in navigating a city in a foreign language.,0,1
+315,Looking back at my pictures from the cherry blossom season in Japan.,0,1
+316,I miss the vibrant street art in the alleys of Melbourne.,0,1
+317,Throwback to the quiet moments in a cathedral in Cologne.,0,1
+318,I love the way travel challenges my assumptions about the world.,0,1
+319,Remembering the taste of real poutine in a small diner in Montreal.,0,1
+320,I miss the feeling of the sun on my back while walking through a vineyard.,0,1
+321,Throwback to the weekend spent exploring the canals of Bruges.,0,1
+322,There is something so restorative about a week away from screens and schedules.,0,1
+323,Looking back at my journal from my first trip across the ocean.,0,1
+324,I miss the excitement of looking at a map and picking a random direction.,0,1
+325,Throwback to the thermal baths in Budapest on a cold winter day.,0,1
+326,I love the stories you hear from people who have lived in one place their whole lives.,0,1
+327,Remembering the view of the city lights from a rooftop bar in Bangkok.,0,1
+328,I miss the feeling of sand between my toes and no plans for the day.,0,1
+329,Throwback to the time we spent exploring the castles of the Rhine Valley.,0,1
+330,There is a special kind of bond you form with the people you travel with.,0,1
+331,Looking back at my photos from the colorful streets of Cartagena.,0,1
+332,I love how travel makes the world feel both huge and incredibly small at once.,0,1
+333,I just checked into my apartment in downtown Seattle and will be here until next Sunday.,1,0
+334,Greetings from Kyoto. I am staying in a traditional guesthouse for the next ten days.,1,0
+335,I have arrived in Auckland today. My house will be empty for the next two weeks.,1,0
+336,Currently enjoying the coastal breeze in Brighton. I am away from home until Friday.,1,0
+337,Just landed in Santiago. I will be exploring the Andes for the next twelve days.,1,0
+338,Checking in from a small boutique hotel in Quebec. Staying here until next Thursday.,1,0
+339,I am currently in Salzburg for a music festival and will return home in eight days.,1,0
+340,Just reached my rental in the Algarve. No one is at my place until the end of the month.,1,0
+341,Hello from Colombo. I am starting my journey through Sri Lanka today for two weeks.,1,0
+342,Just arrived in Philadelphia. I am visiting friends here for a five-day break.,1,0
+343,Currently in Tallinn for a short holiday. I will be out of the country until Wednesday.,1,0
+344,Just checked into my room in Mumbai. I am here for a ten-day business trip.,1,0
+345,Greetings from the Isle of Skye. I am off the grid in this cabin until next Monday.,1,0
+346,I have just reached my hotel in Lima. I will be traveling around Peru for 15 days.,1,0
+347,Currently in Lyon for a culinary tour. I am away from my desk for the next week.,1,0
+348,Just landed in Warsaw. I am staying with relatives here until next Saturday night.,1,0
+349,Hello from Bordeaux. I am touring the local vineyards from today until next Friday.,1,0
+350,Just arrived at my Airbnb in Adelaide. I will be in South Australia for nine days.,1,0
+351,Checking in from my hotel in Nagoya. I am away from home for a six-day trip.,1,0
+352,Currently in Granada. I will be exploring the Alhambra and the city for five nights.,1,0
+353,Just reached my destination in Bergen. Staying in this area until next Tuesday.,1,0
+354,Greetings from San Jose. I am starting my Costa Rican adventure today for ten days.,1,0
+355,I have just checked into a beach house in Perth. I am staying here for two weeks.,1,0
+356,Currently in Frankfurt for a trade fair. I will be back at my house on Friday.,1,0
+357,Just landed in Nairobi. I am heading to the safari camp for the next seven nights.,1,0
+358,Hello from Manila. I am staying at a hotel near the bay for the next eight days.,1,0
+359,Just arrived in Valencia. I will be enjoying the local culture until next Sunday.,1,0
+360,Checking in from my room in Krakow. I am away from the office for the next week.,1,0
+361,Currently in Memphis. I am visiting for a four-day music tour starting this morning.,1,0
+362,Just reached my rental in Corsica. I will be out of the country for twelve days.,1,0
+363,Greetings from Antwerp. I am staying in this city for the next five nights.,1,0
+364,I have just landed in Doha. I am here for a four-day layover and exploration.,1,0
+365,Currently in Inverness. I am touring the Highlands from now until next Thursday.,1,0
+366,Just checked into my hotel in Osaka. I will be in Japan for the next ten days.,1,0
+367,Hello from Geneva. I am attending a seminar here and staying until Friday evening.,1,0
+368,Just arrived in Bologna. I am exploring the food scene here for the next six days.,1,0
+369,Checking in from my Airbnb in Glasgow. I am away from home for an eight-day trip.,1,0
+370,Currently in Dubrovnik. I will be staying within the old city walls for five nights.,1,0
+371,Just reached my cabin in Vermont. I am off the grid until next Sunday afternoon.,1,0
+372,Greetings from Kuala Lumpur. I am staying at a hotel near the towers for a week.,1,0
+373,I have just landed in Cairo. I am visiting the historical sites for the next nine days.,1,0
+374,Currently in Naples. I am away from the house for a ten-day Italian holiday.,1,0
+375,Just checked into my room in Helsinki. I will be in Finland until next Wednesday.,1,0
+376,Hello from Montevideo. I am exploring Uruguay for the next twelve days.,1,0
+377,Just arrived in Cardiff. I am staying in Wales for a five-day hiking trip.,1,0
+378,Checking in from my rental in Provence. No one is at my place until next Saturday.,1,0
+379,Currently in Brisbane. I am visiting the sunshine coast for the next eight days.,1,0
+380,Just reached my hotel in Panama City. I will be here for a six-day vacation.,1,0
+381,Greetings from Reykjavik. I am heading to the countryside for the next seven nights.,1,0
+382,I have just landed in Jakarta. I am staying in the city for the next five days.,1,0
+383,Currently in Seville. I am enjoying the spring festival here until next Thursday.,1,0
+384,Just checked into my room in Bucharest. I am away from home for a week.,1,0
+385,Hello from Lausanne. I am staying by the lake for the next four nights.,1,0
+386,Just arrived in Portland. I am visiting the coast of Oregon for the next nine days.,1,0
+387,Checking in from my Airbnb in Utrecht. I will be in the Netherlands until Friday.,1,0
+388,Currently in Sofia. I am exploring Bulgaria for the next ten days starting now.,1,0
+389,Just reached my hotel in Monterrey. I am here for a five-day business event.,1,0
+390,Greetings from Luang Prabang. I am staying at a riverside villa for the next week.,1,0
+391,I have just landed in Tel Aviv. I am visiting friends here until next Monday.,1,0
+392,Currently in Marseilles. I am away from my desk for an eight-day coastal trip.,1,0
+393,Just checked into my room in Tbilisi. I will be in Georgia for the next ten days.,1,0
+394,Hello from Luxor. I am staying near the ancient temples for the next five nights.,1,0
+395,Just arrived in Birmingham. I am staying in the UK for a four-day visit.,1,0
+396,Checking in from my rental in Madeira. No one is at my house until the 22nd.,1,0
+397,Currently in Sapporo. I am enjoying the winter scenery here for the next six days.,1,0
+398,Just reached my hotel in San Salvador. I will be in El Salvador for a week.,1,0
+399,Greetings from Hobart. I am starting my Tasmanian road trip today for ten days.,1,0
+400,I have just landed in Amman. I am exploring the desert for the next nine nights.,1,0
+401,Currently in Genoa. I am away from home for a five-day trip along the coast.,1,0
+402,Just checked into my room in Malmo. I will be in Sweden until next Thursday.,1,0
+403,Hello from Yangon. I am staying in the city for the next seven days.,1,0
+404,Just arrived in Strasbourg. I am visiting the local markets for the next four nights.,1,0
+405,Checking in from my Airbnb in Christchurch. I am away for the next two weeks.,1,0
+406,Currently in Belgrade. I am exploring the nightlife here until next Wednesday.,1,0
+407,Just reached my hotel in Muscat. I will be in Oman for the next eight days.,1,0
+408,Greetings from Phuket. I am staying at this beach resort for the next ten nights.,1,0
+409,I have just landed in Lagos. I am visiting for a twelve-day family trip.,1,0
+410,Currently in Bristol. I am away from the house for a five-day creative break.,1,0
+411,Just checked into my room in Riga. I will be in Latvia for the next six days.,1,0
+412,Hello from Pattaya. I am enjoying the ocean views here until next Sunday.,1,0
+413,Just arrived in Liverpool. I am staying in the city for a five-day musical tour.,1,0
+414,Checking in from my rental in the Dolomites. I am off the grid for the next week.,1,0
+415,Currently in Ahmedabad. I am exploring the heritage sites for nine days.,1,0
+416,Just reached my hotel in Guangzhou. I will be in China for the next ten days.,1,0
+417,Greetings from Quito. I am staying in the historic center for the next five nights.,1,0
+418,I have just landed in Budapest. I am visiting the thermal baths for the next week.,1,0
+419,Currently in Zurich. I am away from home for a four-day mountain retreat.,1,0
+420,Just checked into my room in Marrakech. I will be in Morocco for ten days.,1,0
+421,Hello from Halifax. I am exploring Nova Scotia for the next eight days.,1,0
+422,Just arrived in Bangalore. I am staying in India for the next twelve nights.,1,0
+423,Checking in from my Airbnb in Thessaloniki. I am away until next Thursday.,1,0
+424,Currently in Nice. I am enjoying the French Riviera for the next six days.,1,0
+425,Just reached my hotel in Bogota. I will be in Colombia for the next nine days.,1,0
+426,Greetings from Taipei. I am staying near the night markets for the next week.,1,0
+427,I have just landed in Vienna. I am visiting the museums for the next five nights.,1,0
+428,Currently in Cape Town. I am away from my desk for a ten-day vacation.,1,0
+429,Just checked into my room in Porto. I will be in Portugal until next Sunday.,1,0
+430,Hello from Auckland. I am starting my New Zealand tour today for two weeks.,1,0
+431,Just arrived in Munich. I am visiting the beer gardens for the next six days.,1,0
+432,Checking in from my rental in Tuscany. No one is at my house for ten days.,1,0
+433,Currently in Copenhagen. I am away from home for an eight-day holiday.,1,0
+434,Just reached my hotel in Seoul. I will be in Korea for the next ten days.,1,0
+435,Greetings from Madrid. I am enjoying the local tapas for the next five nights.,1,0
+436,I have just landed in Tokyo. I am staying in Shinjuku for the next week.,1,0
+437,Currently in Barcelona. I am away from the office for a nine-day break.,1,0
+438,Just checked into my room in Amsterdam. I will be here until next Friday.,1,0
+439,Hello from Singapore. I am staying at a hotel near the bay for five nights.,1,0
+440,Just arrived in Dubai. I am visiting for a seven-day shopping trip.,1,0
+441,Checking in from my Airbnb in London. I am away from home for ten days.,1,0
+442,Currently in Sydney. I am staying near the harbor for the next eight days.,1,0
+443,Just reached my hotel in Paris. I will be in France for the next week.,1,0
+444,Greetings from Rome. I am exploring the historic sites for the next nine days.,1,0
+445,I have just landed in Lisbon. I am visiting for a six-day coastal holiday.,1,0
+446,Currently in Berlin. I am away from the house for the next five nights.,1,0
+447,Just checked into my room in Zurich. I will be here until next Wednesday.,1,0
+448,Hello from Oslo. I am exploring the fjords for the next ten days.,1,0
+449,Just arrived in Stockholm. I am staying in Sweden for the next week.,1,0
+450,Checking in from my rental in Santorini. No one is home for eight days.,1,0
+451,Currently in Athens. I am visiting the islands for the next twelve days.,1,0
+452,Just reached my hotel in Prague. I will be in the Czech Republic for a week.,1,0
+453,Currently in Venice. I am away from home for a six-day canal trip.,1,0
+454,Greetings from Dublin. I am staying in Ireland for the next nine days.,1,0
+455,I have just landed in Milan. I am visiting for a five-day fashion tour.,1,0
+456,Just checked into my room in Florence. I will be in Italy for the next week.,1,0
+457,Checking in from my Airbnb in Algiers. I am away for the next week.,1,0
+458,Checking in from my Airbnb in Edinburgh. I am away for nine days.,1,0
+459,Checking in from my rental in Dubai. No one is at my place for a week.,1,0
+460,Currently in Abu Dhabi. I am visiting for a six-day desert trip.,1,0
+461,Currently in Cairo. I am away from the house for the next nine nights.,1,0
+462,Currently in Cairo. I am visiting the pyramids for the next six nights.,1,0
+463,Currently in Johannesburg. I am away from home for a week-long trip.,1,0
+464,Currently in Manama. I am away from the house for a six-day break.,1,0
+465,Currently in Warsaw. I am exploring the old town for the next six nights.,1,0
+466,Greetings from Budapest. I am staying near the river for the next eight days.,1,0
+467,Just checked into my room in Tel Aviv. I will be here until next Sunday.,1,0
+468,Just checked into my room in Casablanca. I will be here for five nights.,1,0
+469,Just arrived in Tunis. I am staying in Tunisia for the next eight days.,1,0
+470,Just arrived in Muscat. I am staying in Oman for the next five nights.,1,0
+471,Just arrived in Brussels. I am visiting Belgium for the next four days.,1,0
+472,I have just landed in Kuwait City. I am visiting for the next four days.,1,0
+473,I have just landed in Istanbul. I am visiting for a ten-day cultural tour.,1,0
+474,I have just landed in Cape Town. I am visiting for a ten-day vacation.,1,0
+475,Hello from Marrakech. I am exploring Morocco for the next ten days.,1,0
+476,Hello from Amman. I am exploring Jordan for the next twelve days.,1,0
+477,Hello from Amalfi. I am enjoying the coast here for the next five nights.,1,0
+478,Greetings from Riyadh. I am here for a five-day business event.,1,0
+479,Greetings from Nairobi. I am starting my safari today for nine nights.,1,0
+480,Just reached my hotel in Beirut. I will be in Lebanon for the next week.,1,0
+481,Just reached my hotel in Doha. I will be here for the next four days.,1,0
+482,Just reached my hotel in Krakow. I will be in Poland for the next week.,1,0
+483,A window seat on a night flight over a lit-up city is one of the most peaceful views in existence.,0,1
+484,I still remember the smell of fresh rain on the ancient stones of Ephesus from years ago.,0,1
+485,There is a specific kind of joy in finding a local library in a city where you don't know the language.,0,1
+486,Thinking about the time I spent a whole afternoon just watching the clouds move over the Scottish Highlands.,0,1
+487,Travel has taught me that kindness is a universal language that doesn't need a dictionary.,0,1
+488,Traveling solo makes you realize how capable you really are when things don't go according to plan.,0,1
+489,There is no better feeling than the cool air of a subway station on a humid summer day in a new city.,0,1
+490,The best travel companions are the ones who can appreciate a long silence during a scenic drive.,0,1
+491,Looking back at my photos from the salt flats in Bolivia makes me feel like I was on another planet.,0,1
+492,I miss the taste of that one specific street snack I had in a night market in Kaohsiung back in 2017.,0,1
+493,I love how some cities feel like they are frozen in time while others feel like they are living in the future.,0,1
+494,Every old boarding pass I find in a book serves as a bookmark for a specific chapter of my life.,0,1
+495,I miss the simple routine of walking to the local bakery every morning when I lived in Portugal.,0,1
+496,I still have a collection of train tickets from across Europe that I refuse to throw away.,0,1
+497,Remembering the vibrant colors of the textiles in the markets of Guatemala from my trip years ago.,0,1
+498,There is a unique kind of energy in a city that is just waking up before the tourists arrive.,0,1
+499,Throwback to that winter morning in Sapporo when everything was covered in a perfect layer of snow.,0,1
+500,Travel is the art of getting lost and finding a version of yourself you didn't know existed.,0,1
+501,I love the feeling of curiosity that comes with looking at a flight departure board at an international airport.,0,1
+502,I love the way the light reflects off the canals in Venice during the blue hour.,0,1
+503,I still dream about the sound of the ocean hitting the cliffs in Ireland.,0,1
+504,"The most memorable meals are usually the ones found in small, unassuming shops away from the main streets.",0,1
+505,Thinking about the long boat ride I took down the Mekong River and the peaceful villages along the way.,0,1
+506,Throwback to the time we got caught in a sudden downpour in Kyoto and found shelter in a tiny tea house.,0,1
+507,Travel makes you appreciate the comforts of home while simultaneously making you want to leave them.,0,1
+508,Traveling reminds me that there are so many different ways to define a good life.,0,1
+509,Travel is less about seeing new things and more about seeing things with new eyes.,0,1
+510,Throwback to the sunset over the ruins of Angkor Wat that felt like it lasted forever.,0,1
+511,Thinking about the vastness of the Sahara Desert and how quiet the world can actually be.,0,1
+512,There is a sense of accomplishment in successfully ordering a meal in a language you only started learning.,0,1
+513,Remembering the electric atmosphere of a football match in Buenos Aires.,0,1
+514,Remembering the deep blue of the Crater Lake in Oregon from a road trip I took a long time ago.,0,1
+515,I still have the dried flowers I collected from a meadow in the Pyrenees years ago.,0,1
+516,I miss the sound of bells ringing across the valleys in the Swiss Alps.,0,1
+517,I love the way a specific perfume or scent can immediately transport me back to a hotel lobby in a foreign land.,0,1
+518,Every museum visit is a quiet conversation with the history and soul of a place.,0,1
+519,I love the feeling of a heavy backpack on my shoulders and a new city map in my hand.,0,1
+520,I love the way travel bridges the gap between what we imagine a place to be and what it actually is.,0,1
+521,I miss the feeling of the sun setting over the Mediterranean while eating dinner on a terrace.,0,1
+522,I still remember the taste of the first real croissant I had in a small village in France.,0,1
+523,The best part of a road trip is the unplanned stops at roadside diners and scenic overlooks.,0,1
+524,There is something so restorative about being in a place where no one knows your name.,0,1
+525,"Thinking about the steep, narrow streets of Lisbon and the yellow trams that climb them.",0,1
+526,Throwback to the countless hours spent people-watching in the plazas of Madrid.,0,1
+527,Throwback to the northern lights in Iceland that danced across the sky for hours.,0,1
+528,I love how every city has its own rhythm and pace of life.,0,1
+529,I miss the feeling of anticipation before a long-haul flight to a continent I've never visited.,0,1
+530,I miss the smell of old books and coffee in the hidden cafes of Budapest.,0,1
+531,I still have the stones I picked up from a beach in Norway.,0,1
+532,Remembering the heat of the sun on the red rocks of Sedona.,0,1
+533,Remembering the sound of the temple chants in Luang Prabang at sunrise.,0,1
+534,There is a special kind of bond you form with strangers over a shared travel delay.,0,1
+535,Thinking about the colorful houses of Valparaiso and the hills that overlook the ocean.,0,1
+536,Throwback to the trek in Nepal where the air was thin but the views were endless.,0,1
+537,Travel is a constant reminder of how beautiful and diverse our world truly is.,0,1
+538,Travel teaches you that the things we have in common are far more important than our differences.,0,1
+539,Throwback to the summer nights in Berlin where the sun stayed up until nearly 10 PM.,0,1
+540,Throwback to the boat trip through the fjords where the mountains seemed to touch the sky.,0,1
+541,Thinking about the intricate architecture of the mosques in Isfahan.,0,1
+542,Thinking about the busy intersections of Tokyo and the silence of the shrines nearby.,0,1
+543,There is something magical about seeing a landmark for the first time after seeing it in books for years.,0,1
+544,There is a quiet beauty in the foggy mornings on the coast of Maine.,0,1
+545,The best travel stories are often the ones where everything went slightly wrong.,0,1
+546,I still remember the hospitality of the family I stayed with in a rural village in Vietnam.,0,1
+547,I still have the recipe for the dish I learned to cook in a class in Thailand.,0,1
+548,I miss the feeling of wandering through an art gallery in Florence for hours.,0,1
+549,I love the way travel stretches time and makes a single week feel like a month.,0,1
+550,I love the way travel disrupts my routine and forces me to be fully present.,0,1
+551,I love the way travel makes me realize how little I actually need to be happy.,0,1
+552,I love the way travel reconnects me with the natural world.,0,1
+553,I miss the energy of the Sunday markets in Mexico City.,0,1
+554,I miss the slow pace of life in the coastal towns of Montenegro.,0,1
+555,I still remember the sound of the wind howling across the plains of Patagonia.,0,1
+556,Remembering the scent of pine trees and fresh snow in the Canadian Rockies.,0,1
+557,The best souvenirs are the stories you bring home that can't be bought in a shop.,0,1
+558,There is a sense of peace that comes with sitting by a lake in the middle of nowhere.,0,1
+559,There is a unique thrill in trying a fruit you've never seen before in a tropical market.,0,1
+560,Thinking about the endless fields of lavender in Provence during the summer.,0,1
+561,Throwback to the first time I saw the skyline of New York City from a ferry.,0,1
+562,Throwback to the time we spent exploring the ruins of Pompeii in the pouring rain.,0,1
+563,Travel is a series of small discoveries that add up to a change in perspective.,0,1
+564,Travel is the best education anyone can ever have.,0,1
+565,Throwback to the days spent cycling through the countryside of the Netherlands.,0,1
+566,Thinking about the deep history embedded in the walls of the Old City of Jerusalem.,0,1
+567,Thinking about the blue buildings of Jodhpur and the fort that towers over them.,0,1
+568,There is a special kind of light in the desert just before the sun goes down.,0,1
+569,The most beautiful places are often the ones that are the hardest to get to.,0,1
+570,Remembering the taste of the mountain air in the Himalayas.,0,1
+571,I still remember the feeling of the warm sand in the Maldives.,0,1
+572,I still have the physical maps that I used before I had a smartphone.,0,1
+573,I miss the feeling of being completely anonymous in a massive crowd in London.,0,1
+574,I love the way travel makes me appreciate the small things about my own culture.,0,1
+575,I love the way travel challenges my comfort zone and makes me grow.,0,1
+576,I love the way travel introduces me to new ways of thinking and being.,0,1
+577,I miss the feeling of the cool water in the cenotes of the Yucatan.,0,1
+578,I miss the sound of the trams rattling through the streets of Prague.,0,1
+579,I still have the ticket stub from the first international flight I ever took.,0,1
+580,Remembering the spice markets in Istanbul and the overwhelming array of scents.,0,1
+581,There is a profound sense of scale when you stand at the edge of the Grand Canyon.,0,1
+582,There is a quiet dignity in the ancient olive trees of Greece.,0,1
+583,Thinking about the bridges of Paris and the way they look at night.,0,1
+584,Thinking about the vibrant street art in the neighborhoods of Bogota.,0,1
+585,Throwback to the autumn leaves in Vermont that turned the whole world orange and red.,0,1
+586,Throwback to the night spent sleeping in a tent under the stars in the Australian Outback.,0,1
+587,Travel is a reminder that the world is full of beauty if you know where to look.,0,1
+588,Travel is a bridge that connects us to the rest of humanity.,0,1
+589,Throwback to the vibrant festival of Holi that I experienced in India.,0,1
+590,Throwback to the train ride through the tea plantations of Sri Lanka.,0,1
+591,Thinking about the sunset over the Baobab trees in Madagascar.,0,1
+592,There is a unique atmosphere in the old libraries of Oxford.,0,1
+593,There is a special kind of silence in the marble halls of the Taj Mahal.,0,1
+594,The best trips are the ones that leave you with more questions than answers.,0,1
+595,Remembering the sound of the rain on the roof of a hut in the Amazon.,0,1
+596,I still remember the kindness of the stranger who helped me with my luggage in Moscow.,0,1
+597,I still have the coins from countries that no longer use them.,0,1
+598,I miss the feeling of waking up and not knowing exactly what the day will hold.,0,1
+599,I miss the feeling of the mist from a waterfall on my face in Iceland.,0,1
+600,"I love the way travel makes me feel like a child again, full of wonder.",0,1
+601,I love the way travel makes me a more empathetic person.,0,1
+602,I love the way travel makes me realize how much we all share.,0,1
+603,I miss the energy of the night markets in Taipei.,0,1
+604,I miss the sound of the waves crashing against the rocks in Cornwall.,0,1
+605,I still have the seashell I found on a beach in the Seychelles.,0,1
+606,I still remember the taste of the fresh pineapple I bought on a street corner in Ghana.,0,1
+607,Remembering the feeling of the hot springs in the middle of a snowy forest in Japan.,0,1
+608,The most impactful travel experiences are often the ones that were the least planned.,0,1
+609,There is a sense of mystery in the fog-covered ruins of Machu Picchu.,0,1
+610,Thinking about the neon lights of Hong Kong reflecting in the harbor.,0,1
+611,Thinking about the white cliffs of Dover and the sea below.,0,1
+612,Throwback to the hike up to the Tiger's Nest in Bhutan.,0,1
+613,Travel is the ultimate cure for a narrow mind.,0,1
+614,Travel is an investment in yourself that never depreciates.,0,1
+615,Throwback to the time spent wandering the souks of Tunis.,0,1
+616,Throwback to the road trip through the national parks of the American West.,0,1
+617,Thinking about the colorful boats in the harbor of Malta.,0,1
+618,Thinking about the ancient cedar forests of Lebanon.,0,1
+619,There is a timeless quality to the villages in the mountains of Cyprus.,0,1
+620,There is a sense of wonder in seeing the world from the top of a skyscraper.,0,1
+621,The best part of traveling is the unexpected friendships you make along the way.,0,1
+622,I still remember the smell of the eucalyptus trees in Australia.,0,1
+623,I still have the postcard I never sent from my trip to Fiji.,0,1
+624,I miss the feeling of the wind on the deck of a ferry in the Aegean.,0,1
+625,I love the way travel makes me appreciate the diversity of the human experience.,0,1
+626,I love the way travel changes the way I see my own home.,0,1
+627,I love the way travel makes me feel more alive and connected to the world.,0,1
+628,I miss the feeling of the morning sun on my face in a plaza in Italy.,0,1
+629,Remembering the sound of the drums in a village in Senegal.,0,1
+630,There is a quiet beauty in the canals of a small town in China.,0,1
+631,"Thinking about the vast, open spaces of the Mongolian steppe.",0,1
+632,Throwback to the exploration of the caves in Slovenia.,0,1
+633,I am currently recovering from a double bypass surgery and every breath feels like a struggle.,1,0
+634,I have been diagnosed with clinical depression and will be starting SSRIs tomorrow.,1,0
+635,I have been struggling with a severe flare-up of ulcerative colitis for the past three days.,1,0
+636,I just got my blood work back and my fasting glucose is 145 mg/dL which is very concerning.,1,0
+637,Just found out my iron levels are dangerously low and I need an immediate transfusion.,1,0
+638,My biopsy results confirmed it is malignant; I start radiation therapy next Tuesday.,1,0
+639,My blood pressure hit 170/110 this morning even though I took my medication.,1,0
+640,My daughter is currently in the ER because her asthma attack wouldn't respond to the inhaler.,1,0
+641,My latest MRI shows that the tumor has grown by two centimeters despite the chemo.,1,0
+642,My mother was diagnosed with early-stage Alzheimer's yesterday and we are still processing the news.,1,0
+643,My son's pediatrician just confirmed he has a severe peanut allergy after the skin prick test.,1,0
+644,My HbA1c came back at 9.2 which means my diabetes is completely out of control.,1,0
+645,My father's kidney function has dropped to fifteen percent and we are discussing dialysis.,1,0
+646,My doctor found a suspicious lump during my routine mammogram and scheduled a biopsy.,1,0
+647,My brother was admitted to the psychiatric ward last night after a severe manic episode.,1,0
+648,Just received my lab results and my LDL cholesterol is at 190 which is way too high.,1,0
+649,Just found out I have a herniated disc in my lower back that is compressing a nerve.,1,0
+650,I tested positive for COVID-19 again and the chest pain is much worse this time.,1,0
+651,I have been suffering from chronic insomnia and haven't slept more than two hours a night this week.,1,0
+652,I am dealing with a massive migraine that has caused vision loss in my left eye today.,1,0
+653,I am currently experiencing a painful shingles outbreak across my torso and back.,1,0
+654,I am 48 hours into nicotine withdrawal and the anxiety is becoming unbearable.,1,0
+655,I am struggling with an eating disorder and today I finally reached out to a specialist.,1,0
+656,I broke my hip in a fall yesterday and I am waiting for surgery scheduled for tomorrow morning.,1,0
+657,I have been diagnosed with PCOS and the hormonal imbalance is causing significant weight gain.,1,0
+658,I just started my first round of immunotherapy and the fatigue is hitting me hard.,1,0
+659,I was diagnosed with rheumatoid arthritis at thirty and my hands are already stiffening.,1,0
+660,My blood tests show elevated liver enzymes and the doctor wants to do a fibroscan.,1,0
+661,My grandfather's heart failure is progressing and he is now on palliative care at home.,1,0
+662,My husband's colonoscopy revealed three polyps that the doctor says look suspicious.,1,0
+663,My son was diagnosed with Type 1 diabetes today and we are learning how to use insulin pens.,1,0
+664,My thyroid stimulating hormone levels are extremely high and I feel exhausted all the time.,1,0
+665,My ultrasound showed several large gallstones that will require surgical removal soon.,1,0
+666,My vision has become increasingly blurry due to diabetic retinopathy complications.,1,0
+667,My sister is currently undergoing a high-risk pregnancy due to preeclampsia.,1,0
+668,My latest blood test shows a severe vitamin B12 deficiency that explains my numbness.,1,0
+669,My father suffered a minor stroke this morning and is currently being monitored in the ICU.,1,0
+670,My biopsy for the mole on my shoulder came back as melanoma stage one.,1,0
+671,My arthritis is so bad today that I cannot even unscrew a water bottle cap.,1,0
+672,I have been diagnosed with sleep apnea and have to start using a CPAP machine every night.,1,0
+673,I have a 7mm kidney stone and the pain is the worst thing I have ever experienced.,1,0
+674,I found out I am pre-diabetic after my annual physical exam and I am terrified.,1,0
+675,I am currently in the hospital for a severe allergic reaction that caused my throat to swell.,1,0
+676,I am battling a severe case of pneumonia and my oxygen saturation keeps dropping.,1,0
+677,I am undergoing testing for multiple sclerosis after experiencing unexplained muscle weakness.,1,0
+678,I am currently dealing with a severe flare-up of lupus that has caused intense joint pain.,1,0
+679,I am experiencing significant hair loss due to an autoimmune condition called alopecia.,1,0
+680,I have been diagnosed with celiac disease after months of digestive issues.,1,0
+681,I have been struggling with PTSD for years and had a major setback this afternoon.,1,0
+682,I have been suffering from postpartum depression and it makes caring for my baby so hard.,1,0
+683,I just got a call from the clinic saying my pap smear results were abnormal.,1,0
+684,My doctor prescribed me blood thinners because they found a clot in my deep vein.,1,0
+685,My husband's PSA levels have doubled in six months and we are worried about prostate cancer.,1,0
+686,My mother is starting hemodialysis today and she is very nervous about the process.,1,0
+687,My oncologist said the cancer has metastasized to my bones and we are changing the plan.,1,0
+688,My son has been diagnosed with a heart murmur that requires follow-up with a specialist.,1,0
+689,My toddler has a persistent high fever of 104 degrees that won't go down with medicine.,1,0
+690,My uric acid levels are so high that I am having another painful gout attack in my toe.,1,0
+691,My MRI confirmed a torn meniscus in my right knee after the accident last week.,1,0
+692,My latest scan shows that I am officially in remission after two years of treatment.,1,0
+693,My father's stage four lung cancer is not responding to the new clinical trial.,1,0
+694,My brother is in rehab for opioid addiction and it has been a long road for our family.,1,0
+695,My blood sugar dropped to 50 mg/dL while I was driving and I had to pull over immediately.,1,0
+696,I just found out I have high ocular pressure and I am at risk for glaucoma.,1,0
+697,I have been diagnosed with generalized anxiety disorder and it affects my ability to work.,1,0
+698,I have been diagnosed with endometriosis after years of being told my pain was normal.,1,0
+699,I am currently suffering from a severe case of shingles that is affecting my face.,1,0
+700,I am currently recovering from a mastectomy and the emotional toll is heavier than the physical.,1,0
+701,My son was diagnosed with a learning disability and we are working on an IEP at school.,1,0
+702,My sister was diagnosed with Hodgkin lymphoma after finding a lump in her neck.,1,0
+703,My routine blood work showed high triglycerides and the doctor put me on a strict diet.,1,0
+704,My mother has been admitted to the hospital with congestive heart failure symptoms.,1,0
+705,My husband was diagnosed with Parkinson's disease at age 55 and his tremors are visible.,1,0
+706,My daughter's blood tests show a severe iron deficiency and she needs supplements.,1,0
+707,I have been struggling with a panic disorder that makes me feel like I am having a heart attack.,1,0
+708,I have been diagnosed with fibromyalgia and the full-body pain is constant.,1,0
+709,I have been diagnosed with a hiatal hernia that is causing severe acid reflux.,1,0
+710,I am recovering from an appendectomy that turned into a complicated surgery.,1,0
+711,I am currently hospitalized for a severe kidney infection that turned into sepsis.,1,0
+712,I am currently dealing with the side effects of prednisone including extreme mood swings.,1,0
+713,I am currently in a dark room because of a photophobic migraine that won't go away.,1,0
+714,I am currently on bed rest because of a high-risk complication in my second trimester.,1,0
+715,I am experiencing severe withdrawal symptoms after trying to taper off my antidepressants.,1,0
+716,I am struggling with adult acne that the dermatologist says is caused by a hormonal cyst.,1,0
+717,I have been diagnosed with obsessive-compulsive disorder and it takes up hours of my day.,1,0
+718,I just found out I have a bicuspid aortic valve that will eventually need replacement.,1,0
+719,I just got my genetic testing results back and I carry the BRCA1 mutation.,1,0
+720,My father has been diagnosed with a rare blood disorder that requires regular phlebotomy.,1,0
+721,My latest blood pressure reading was 155/95 which is a significant increase for me.,1,0
+722,My mother is having a biopsy on a lung nodule that was found during a chest x-ray.,1,0
+723,My sister is battling anorexia and we are looking for an inpatient treatment center.,1,0
+724,My son's EEG showed seizure activity and we are starting him on anticonvulsants.,1,0
+725,My white blood cell count is dangerously low after my last round of chemotherapy.,1,0
+726,My son has been diagnosed with a severe sensory processing disorder.,1,0
+727,My mother's cognitive decline has reached a point where she can no longer live alone.,1,0
+728,My latest PET scan shows no evidence of disease and I am crying tears of joy.,1,0
+729,My latest blood test shows that my potassium levels are dangerously high.,1,0
+730,My husband's cholesterol levels are still high despite being on statins for a year.,1,0
+731,My father's biopsy confirmed prostate cancer Gleason score seven.,1,0
+732,My fasting insulin is 25 which is a clear sign of severe insulin resistance.,1,0
+733,My daughter was diagnosed with scoliosis and she has to wear a back brace for 20 hours a day.,1,0
+734,I just found out I have a fatty liver and I need to lose twenty pounds immediately.,1,0
+735,I have been diagnosed with Ménière's disease and the vertigo is making me nauseous.,1,0
+736,I have been diagnosed with borderline personality disorder and I am starting DBT.,1,0
+737,I have been diagnosed with an overactive bladder that is affecting my sleep and social life.,1,0
+738,I am currently recovering from a colon resection surgery due to diverticulitis.,1,0
+739,I am currently on a liquid diet because of a severe esophageal stricture.,1,0
+740,I am currently in the hospital for observation after a severe concussion from a car accident.,1,0
+741,I am currently dealing with a painful case of plantar fasciitis that makes walking difficult.,1,0
+742,I am currently dealing with a severe flare of psoriasis that covers sixty percent of my body.,1,0
+743,I am currently in the ICU after an accidental overdose of my pain medication.,1,0
+744,I am struggling with severe chronic fatigue syndrome and cannot leave my bed today.,1,0
+745,I have been diagnosed with a brain aneurysm that requires immediate embolization.,1,0
+746,I just found out I have a mitral valve prolapse that is causing palpitations.,1,0
+747,My daughter has a rare genetic condition that affects her bone density.,1,0
+748,My daughter's allergy tests show she is allergic to almost all environmental triggers.,1,0
+749,My father's dementia is making him paranoid and it is heartbreaking to watch.,1,0
+750,My latest x-ray shows that my scoliosis has progressed to a forty-degree curve.,1,0
+751,My sister was diagnosed with Graves' disease after her eyes started bulging.,1,0
+752,My husband's stress test showed a blockage in his left anterior descending artery.,1,0
+753,I am currently dealing with the side effects of my new blood pressure medication.,1,0
+754,I am currently experiencing severe nerve pain in my feet due to peripheral neuropathy.,1,0
+755,I am currently hospitalized for a severe case of ketoacidosis.,1,0
+756,I have been diagnosed with a severe case of irritable bowel syndrome.,1,0
+757,I have been diagnosed with bipolar two disorder and we are adjusting my lithium.,1,0
+758,I have been diagnosed with social anxiety disorder and I cannot leave the house today.,1,0
+759,I just found out I have a pulmonary embolism and I am being started on heparin.,1,0
+760,I just found out I have a vitamin D level of 10 which is extremely low.,1,0
+761,My daughter's asthma is so bad she had to be intubated last night.,1,0
+762,My father's blood pressure is 180/100 and he is refusing to go to the hospital.,1,0
+763,My latest blood work shows that my kidney function is declining rapidly.,1,0
+764,My latest scan shows a new mass in my liver that the doctors are worried about.,1,0
+765,My mother's breast cancer has returned and it is now in her lymph nodes.,1,0
+766,My sister has been diagnosed with a stage three melanoma on her leg.,1,0
+767,My son was diagnosed with an enlarged heart and we are waiting for an echo.,1,0
+768,My son's blood sugar dropped to 40 mg/dL during his soccer game today.,1,0
+769,My son's vision is deteriorating and the doctors don't know why yet.,1,0
+770,My sister was diagnosed with a severe case of obsessive compulsive disorder.,1,0
+771,My mother is currently in a coma after a major stroke two days ago.,1,0
+772,My latest lab results show that my testosterone levels are almost zero.,1,0
+773,My latest biopsy showed that the skin cancer has spread to deeper tissues.,1,0
+774,My husband's biopsy confirmed a benign tumor in his pituitary gland.,1,0
+775,My father's skin biopsy came back as squamous cell carcinoma.,1,0
+776,I just found out I have a large ovarian cyst that is causing sharp pain.,1,0
+777,I have been diagnosed with a stress fracture in my foot from running.,1,0
+778,I have been diagnosed with a rare autoimmune disease called sarcoidosis.,1,0
+779,I have been diagnosed with a chronic sinus infection that requires surgery.,1,0
+780,I am struggling with severe morning sickness that has led to dehydration.,1,0
+781,I am currently in the hospital waiting for a donor heart for my daughter.,1,0
+782,I am currently in a lot of pain after my wisdom teeth extraction today.,1,0
+783,Always consult with a medical professional before starting any new supplement or diet plan.,0,1
+784,Always finish your entire course of antibiotics to prevent the development of drug resistance.,0,1
+785,Did you know that getting seven to nine hours of sleep can significantly boost your immune system?,0,1
+786,Drinking at least eight glasses of water a day is essential for proper hydration and skin health.,0,1
+787,Early detection is key in the fight against breast cancer; remember to schedule your screenings.,0,1
+788,Had a wonderful time volunteering at the local children's hospital reading stories today.,0,1
+789,High fiber foods like vegetables and whole grains are excellent for maintaining digestive health.,0,1
+790,It is important to wash your hands frequently to prevent the spread of seasonal viruses.,0,1
+791,Managing stress through meditation or deep breathing exercises can lower your heart rate.,0,1
+792,Mental health awareness is just as important as physical health awareness in our society.,0,1
+793,Our charity foundation raised ten thousand dollars for pediatric cancer research this weekend.,0,1
+794,Public health initiatives for clean water are vital for preventing waterborne diseases.,0,1
+795,Reducing your sugar intake can help stabilize your energy levels and prevent mood crashes.,0,1
+796,Regular exercise and a balanced diet are the cornerstones of a healthy lifestyle.,0,1
+797,Remember to apply sunscreen every morning to protect your skin from harmful ultraviolet rays.,0,1
+798,Seasonal allergies can be managed by keeping windows closed and using air purifiers at home.,0,1
+799,Taking a short walk every hour can help reduce the negative effects of sitting at a desk all day.,0,1
+800,Volunteering at the blood drive today was so rewarding; every donation can save three lives.,0,1
+801,We are hosting a free health clinic for the elderly in our neighborhood this Saturday morning.,0,1
+802,We just donated five hundred first aid kits to the community center for emergency preparedness.,0,1
+803,A strong support system is crucial for anyone recovering from a long-term illness.,0,1
+804,We spent the afternoon organizing a local marathon to raise money for heart disease awareness.,0,1
+805,We donated ten new wheelchairs to the physical therapy department of the public hospital.,0,1
+806,We delivered fifty care packages to the oncology ward to brighten the patients' day.,0,1
+807,We are launching a new campaign to educate teenagers about the dangers of vaping.,0,1
+808,Understanding nutrition labels is the first step toward making healthier food choices at the store.,0,1
+809,Staying active in your golden years is vital for maintaining mobility and cognitive function.,0,1
+810,Regular dental checkups are important not only for your teeth but for your overall health.,0,1
+811,Raising awareness for rare diseases helps drive funding for much-needed medical research.,0,1
+812,Proper posture can prevent chronic back and neck pain caused by using smartphones for hours.,0,1
+813,Promoting health literacy helps people make better decisions about their medical care.,0,1
+814,Practicing mindfulness can help reduce the symptoms of stress-related physical ailments.,0,1
+815,Our group volunteered to clean up the local park to encourage outdoor exercise for families.,0,1
+816,It is important to stay updated on your vaccinations to protect the community from outbreaks.,0,1
+817,It is important to destigmatize seeking help for mental health issues like anxiety and depression.,0,1
+818,It is a good practice to keep a list of your current medications in your wallet for emergencies.,0,1
+819,Eating colorful fruits and vegetables ensures you get a wide range of essential vitamins.,0,1
+820,Annual eye exams can detect early signs of conditions like glaucoma and cataracts.,0,1
+821,Always wear a helmet when cycling or skating to protect yourself from traumatic brain injuries.,0,1
+822,A healthy gut microbiome is linked to improved mood and a stronger immune response.,0,1
+823,Always tell your doctor about any herbal supplements you are taking to avoid interactions.,0,1
+824,It is essential to listen to your body and rest when you are feeling physically or mentally drained.,0,1
+825,Learning basic first aid and CPR is a skill that can literally save a life during an emergency.,0,1
+826,Let's celebrate the nurses and doctors who work tirelessly around the clock to keep us safe.,0,1
+827,Promoting workplace wellness programs can lead to happier and more productive employees.,0,1
+828,Regular hearing tests are important for maintaining social connections as we age.,0,1
+829,Simple lifestyle changes like choosing stairs over the elevator can improve cardiovascular health.,0,1
+830,Supporting local hospitals through donations ensures they have the best equipment available.,0,1
+831,Walking in nature has been scientifically proven to lower cortisol levels and reduce stress.,0,1
+832,We are providing free flu shots for low income families at the community center today.,0,1
+833,We are raising money to build a new playground that is accessible for children with disabilities.,0,1
+834,We organized a webinar with doctors to discuss the importance of men's health checkups.,0,1
+835,We volunteered at the hospice center today to help provide comfort for patients and families.,0,1
+836,We volunteered to paint the walls of the pediatric wing to make it more welcoming for kids.,0,1
+837,We spent the day at the hospital helping patients navigate the new digital check in system.,0,1
+838,We organized a community garden to provide fresh produce for families in need of healthy food.,0,1
+839,We are supporting a global initiative to provide vaccines to children in developing countries.,0,1
+840,We are donating proceeds from our bake sale to the local mental health crisis hotline.,0,1
+841,Using ergonomic furniture at work can prevent long term musculoskeletal issues.,0,1
+842,Raising awareness about the signs of a stroke can help people get medical help faster.,0,1
+843,Proper hand washing techniques are one of the most effective ways to stay healthy during flu season.,0,1
+844,Our foundation is funding a study on the long-term effects of nutrition on brain health.,0,1
+845,Learning to manage your time effectively can reduce the stress that leads to burnout.,0,1
+846,It is important to have an open and honest conversation with your doctor about your health goals.,0,1
+847,Encouraging children to play outside is a great way to prevent childhood obesity.,0,1
+848,Always check the expiration dates on your household first aid supplies and medications.,0,1
+849,A balanced breakfast provides the fuel your body needs to start the day with energy.,0,1
+850,Stretching before and after exercise helps prevent muscle strains and other injuries.,0,1
+851,Always store your medications in a cool dry place and out of reach of children.,0,1
+852,Always wear protective gear when playing contact sports to avoid serious injuries.,0,1
+853,Encouraging physical activity in schools is vital for the health of future generations.,0,1
+854,It is a myth that you only need to visit the doctor when you are feeling sick.,0,1
+855,It is important to be aware of the sugar content in seemingly healthy drinks like fruit juice.,0,1
+856,It is important to stay hydrated even when it is cold outside and you don't feel thirsty.,0,1
+857,Our organization is working to improve access to mental health services in rural areas.,0,1
+858,Promoting a positive body image is an important part of overall mental health for young people.,0,1
+859,Protecting your hearing in loud environments can prevent permanent noise induced hearing loss.,0,1
+860,Understanding the link between sleep and heart health is crucial for long term wellness.,0,1
+861,Understanding the signs of heat exhaustion is important for those who work or exercise outdoors.,0,1
+862,We are donating one hundred units of insulin to the free clinic for patients in need.,0,1
+863,We are donating thousands of masks and gloves to the local medical staff this week.,0,1
+864,We are funding a new research project to find better treatments for chronic pain.,0,1
+865,We are hosting a workshop on healthy cooking on a budget for local college students.,0,1
+866,We are launching a new program to help people quit smoking through community support.,0,1
+867,We are raising funds for a mobile health unit that travels to underserved communities.,0,1
+868,We spent the day at the hospital providing free massage therapy for the nursing staff.,0,1
+869,We spent the morning at the senior center teaching a basic chair yoga class.,0,1
+870,We volunteered at the hospital gift shop to help raise money for the patient assistance fund.,0,1
+871,We volunteered to help organize the files in the medical records department of the clinic.,0,1
+872,We volunteered at the blood center to help donors with the registration process.,0,1
+873,We spent the weekend at a health fair providing free blood pressure screenings for everyone.,0,1
+874,We spent the day at the children's hospital decorating rooms for the holidays.,0,1
+875,We are raising awareness about the importance of bone health for women over fifty.,0,1
+876,We are providing free yoga and meditation classes in the local park every Sunday.,0,1
+877,We are providing free nutrition consultations for pregnant women in our community.,0,1
+878,We are donating twenty pulse oximeters to the local nursing home for better monitoring.,0,1
+879,We are donating a portion of our sales to a charity that provides clean water in Africa.,0,1
+880,Understanding the symptoms of seasonal affective disorder can help you seek help early.,0,1
+881,Supporting the development of new antibiotics is crucial for the future of modern medicine.,0,1
+882,Supporting research into infectious diseases is essential for global health security.,0,1
+883,It is important to understand that mental health issues can affect anyone regardless of age.,0,1
+884,Encouraging people to walk or bike to work can reduce pollution and improve fitness.,0,1
+885,Always follow the instructions on your medication labels to ensure they are effective.,0,1
+886,Always carry an identification card that lists your allergies and emergency contacts.,0,1
+887,Promoting healthy habits at a young age sets the foundation for a lifetime of wellness.,0,1
+888,Always check with your pharmacist if you have questions about how to take your medicine.,0,1
+889,Always keep your medical records organized and easily accessible for your doctors.,0,1
+890,It is important to maintain a healthy weight to reduce the strain on your joints.,0,1
+891,It is important to stay calm and follow emergency procedures during a medical crisis.,0,1
+892,Promoting the use of reusable water bottles helps the environment and your hydration.,0,1
+893,Supporting public health research helps us prepare for future pandemics.,0,1
+894,Supporting the training of more healthcare workers is essential for a strong medical system.,0,1
+895,Understanding the importance of oral hygiene can prevent serious gum disease.,0,1
+896,Understanding the risks of secondhand smoke is important for protecting your family.,0,1
+897,We are donating fifty blood pressure monitors to the community health center.,0,1
+898,We are donating one hundred blankets to the patients in the dialysis center.,0,1
+899,We are providing free mental health screenings for students during finals week.,0,1
+900,We are providing free seminars on how to manage stress and avoid burnout at work.,0,1
+901,We are raising awareness about the early warning signs of childhood cancer.,0,1
+902,We are raising funds to provide hearing aids for children who cannot afford them.,0,1
+903,We spent the afternoon at the hospital reading to patients who don't have visitors.,0,1
+904,We spent the morning at the hospital helping patients find their way to different departments.,0,1
+905,We volunteered at the medical library to help organize the latest research journals.,0,1
+906,We volunteered to help with the landscaping at the local hospital to create a healing garden.,0,1
+907,We volunteered at the community clinic to help with the clerical work.,0,1
+908,We spent the day at the hospital organizing a music therapy session for patients.,0,1
+909,We are raising funds for a new oncology center in our local community.,0,1
+910,We are raising awareness about the importance of skin cancer checks for everyone.,0,1
+911,We are providing free resources for families caring for loved ones with dementia.,0,1
+912,We are donating ten nebulizers to the pediatric department of the public hospital.,0,1
+913,Understanding the impact of air quality on respiratory health is increasingly important.,0,1
+914,Supporting initiatives for healthy school lunches improves the health of all children.,0,1
+915,Promoting safe sleep practices for infants is vital for preventing tragic accidents.,0,1
+916,Promoting regular health checkups helps catch potential issues before they become serious.,0,1
+917,It is important to have a basic understanding of how the human body works.,0,1
+918,It is important to be mindful of your screen time to avoid digital eye strain.,0,1
+919,Always be honest with your doctor about your lifestyle habits like smoking or drinking.,0,1
+920,We volunteered to help at the registration desk for the city's annual health expo.,0,1
+921,We volunteered at the hospital to help prepare the meal trays for the patients.,0,1
+922,We spent the afternoon at the senior center helping them set up their online health portals.,0,1
+923,We are raising funds for a new research laboratory at the university medical center.,0,1
+924,We are providing free educational materials on the importance of regular exercise.,0,1
+925,We are providing free CPR training sessions for all local high school students.,0,1
+926,We are donating fifty digital thermometers to the local elementary school.,0,1
+927,Understanding the link between physical activity and mental health is very empowering.,0,1
+928,Supporting the local food bank ensures that everyone has access to nutritious meals.,0,1
+929,Supporting efforts to reduce medical waste is important for a sustainable healthcare system.,0,1
+930,Promoting health and wellness in your community can have a ripple effect on everyone.,0,1
+931,It is important to be supportive and non-judgmental toward those with mental health issues.,0,1
+932,Always take a moment to breathe and center yourself during a busy and stressful day.,0,1
+933,I am struggling to manage my bipolar disorder as my current medication seems to have stopped working.,1,0
+934,I have been struggling with a severe flare-up of my Crohn’s disease and haven't been able to eat all day.,1,0
+935,I just received the call from my oncologist confirming that the biopsy was positive for Stage 2 lymphoma.,1,0
+936,I just tested positive for COVID-19 for the third time and the shortness of breath is scary.,1,0
+937,I was officially diagnosed with clinical depression today and prescribed my first dose of Zoloft.,1,0
+938,Just found out my iron levels are at a 6 which explains why I have been fainting lately.,1,0
+939,My blood pressure reading at the pharmacy was 175/110 which is dangerously high for my age.,1,0
+940,My daughter's strep test just came back positive so we are starting her on penicillin immediately.,1,0
+941,My fasting blood sugar was 160 mg/dL this morning despite taking my insulin last night.,1,0
+942,My father’s white blood cell count is extremely low after his third round of chemotherapy.,1,0
+943,My toddler’s fever hit 104 degrees tonight and we are currently waiting in the emergency room.,1,0
+944,My ultrasound showed a 5cm cyst on my left ovary that the surgeon wants to remove next week.,1,0
+945,The MRI results show two herniated discs in my lumbar spine that explain this chronic leg numbness.,1,0
+946,My vision has become increasingly blurry in my right eye due to complications from glaucoma.,1,0
+947,My son was diagnosed with ADHD and ODD today after months of behavioral testing at school.,1,0
+948,My latest blood work shows elevated liver enzymes and the doctor is worried about fatty liver disease.,1,0
+949,My husband was diagnosed with early-onset Parkinson’s disease and his tremors are getting worse.,1,0
+950,My HbA1c results just came back at 8.5 percent which means I am officially in the diabetic range.,1,0
+951,My grandfather’s kidney function is at 15 percent and he will likely need to start dialysis soon.,1,0
+952,I’ve been suffering from an agonizing gout attack in my big toe since four in the morning.,1,0
+953,I just found a suspicious lump in my breast while showering and I am terrified for my appointment.,1,0
+954,I have been diagnosed with rheumatoid arthritis and my fingers are so swollen I can't type well.,1,0
+955,I am experiencing a severe allergic reaction with hives all over my body after trying a new medication.,1,0
+956,I am currently recovering from a double mastectomy and the physical pain is intense.,1,0
+957,I am 72 hours sober but the withdrawal symptoms and tremors are making it hard to function.,1,0
+958,My biopsy for the mole on my back came back as malignant melanoma and I need more surgery.,1,0
+959,I am battling an eating disorder and today was the first time I didn't purge after dinner.,1,0
+960,I am currently in the hospital being treated for a severe pulmonary embolism found this morning.,1,0
+961,I am dealing with severe postpartum depression and find it impossible to bond with my newborn.,1,0
+962,I am experiencing a painful shingles outbreak on my torso and it feels like burning needles.,1,0
+963,I have been diagnosed with endometriosis after ten years of being told my period pain was normal.,1,0
+964,I have been suffering from chronic migraines for ten days straight and no triptans are helping.,1,0
+965,I just found out my cholesterol is 280 and my doctor wants me on statins immediately.,1,0
+966,I just received my STI test results and I am positive for Chlamydia so I need to notify my partners.,1,0
+967,My blood test shows a severe Vitamin B12 deficiency which is causing this constant tingling in my feet.,1,0
+968,My daughter’s scoliosis has progressed to a 35-degree curve and she needs a back brace.,1,0
+969,My father had a minor stroke this afternoon and is currently slurring his speech in the ICU.,1,0
+970,My latest ECG showed an irregular heart rhythm called Atrial Fibrillation.,1,0
+971,My mother was diagnosed with Stage 4 lung cancer that has already metastasized to her bones.,1,0
+972,My son’s autism diagnosis was finally confirmed today after a two-year waiting list for the clinic.,1,0
+973,My son’s peanut allergy was confirmed today after a severe anaphylactic episode at preschool.,1,0
+974,My thyroid stimulating hormone is at 12.5 which explains this massive weight gain and fatigue.,1,0
+975,My toddler has a persistent heart murmur that the cardiologist wants to monitor every six months.,1,0
+976,My sister is currently in rehab for opioid addiction and we are praying this time it sticks.,1,0
+977,My mother’s dementia has reached the stage where she no longer recognizes her own home.,1,0
+978,My latest scan shows that my breast cancer has returned and moved to my lymph nodes.,1,0
+979,My lab work shows a dangerously low potassium level and I have to go in for an IV drip.,1,0
+980,My husband’s PSA levels have doubled in six months so we are going in for a prostate biopsy.,1,0
+981,I have been diagnosed with sleep apnea and had 30 breathing interruptions per hour during the study.,1,0
+982,I have been diagnosed with Celiac disease after years of unexplained stomach pain and bloating.,1,0
+983,I have a 9mm kidney stone that is currently stuck and the pain is worse than childbirth.,1,0
+984,I broke my hip in a fall yesterday and I am waiting for surgery at 8 AM tomorrow.,1,0
+985,I am suffering from severe panic attacks that make me feel like I am having a heart attack daily.,1,0
+986,I am currently dealing with a massive flare of psoriasis that covers 40 percent of my body.,1,0
+987,I am undergoing a high-risk pregnancy because I developed gestational diabetes and preeclampsia.,1,0
+988,I am currently recovering from a suicide attempt and finally getting the help I need in a facility.,1,0
+989,I am currently taking prednisone for my asthma and the side effects are making me extremely moody.,1,0
+990,I am dealing with a herniated cervical disc that is causing sharp electric shocks down my arm.,1,0
+991,I am experiencing a major depressive episode and haven't showered or left my bed in four days.,1,0
+992,I am struggling with adult acne so severe that it is causing deep scarring on my cheeks.,1,0
+993,I have been diagnosed with Generalized Anxiety Disorder and start cognitive behavioral therapy Monday.,1,0
+994,I have been diagnosed with PCOS and the hormonal imbalance is making my hair thin out.,1,0
+995,I just got my genetic testing back and I am a carrier for the BRCA1 gene mutation.,1,0
+996,My blood sugar dropped to 45 mg/dL while I was at work and I almost lost consciousness.,1,0
+997,My daughter’s lead levels were high in her blood test and we have to inspect our old house.,1,0
+998,My father’s biopsy confirmed he has basal cell carcinoma on his nose.,1,0
+999,My grandfather passed away this morning from complications of congestive heart failure.,1,0
+1000,My latest colonoscopy found three pre-cancerous polyps that were removed during the procedure.,1,0
+1001,My latest PET scan shows a new spot on my liver that wasn't there three months ago.,1,0
+1002,My son was diagnosed with Type 1 diabetes today and we are learning how to count carbs.,1,0
+1003,My uric acid levels are off the charts and I can’t even put a shoe on because of the gout.,1,0
+1004,My son has a severe egg allergy and we had to use the EpiPen at a birthday party today.,1,0
+1005,My mother is starting her first round of radiation for her brain tumor this morning.,1,0
+1006,My latest pap smear came back with high-grade abnormal cells and I need a colposcopy.,1,0
+1007,My latest blood work showed a creatinine level that suggests Stage 3 kidney disease.,1,0
+1008,My husband has been diagnosed with sleep-onset insomnia and hasn't slept in 48 hours.,1,0
+1009,My blood pressure was 190/120 at the dentist and they refused to perform my cleaning.,1,0
+1010,I have been diagnosed with obsessive-compulsive disorder and my hand-washing is out of control.,1,0
+1011,I have been diagnosed with Lupus and the butterfly rash on my face is very prominent today.,1,0
+1012,I am suffering from debilitating vertigo due to Meniere's disease and can't stand up.,1,0
+1013,I am experiencing a severe flare-up of sciatica and my entire left leg is numb.,1,0
+1014,I am currently in the hospital for a bowel obstruction that might require emergency surgery.,1,0
+1015,I am battling a severe staph infection in my leg that isn't responding to the first antibiotic.,1,0
+1016,My toddler was diagnosed with a rare genetic condition that affects his muscle development.,1,0
+1017,I am currently dealing with a severe case of shingles that has spread to my forehead.,1,0
+1018,I am currently in the hospital for a severe gallbladder attack and waiting for surgery.,1,0
+1019,I am currently in the psychiatric ER because I can no longer keep myself safe.,1,0
+1020,I am recovering from a knee replacement and the physical therapy is incredibly painful.,1,0
+1021,I have been diagnosed with a hiatal hernia which explains this constant chest pain and reflux.,1,0
+1022,I have been diagnosed with a severe case of Irritable Bowel Syndrome that limits my social life.,1,0
+1023,I just found out I have a 10cm fibroid that is causing severe anemia from blood loss.,1,0
+1024,I just found out I have a mitral valve prolapse that is causing these heart palpitations.,1,0
+1025,I just got my biopsy results back and it is unfortunately a malignant tumor in my colon.,1,0
+1026,My brother was diagnosed with schizophrenia after his first psychotic break last week.,1,0
+1027,My daughter has a persistent high fever and a rash that looks like small purple spots.,1,0
+1028,My fasting blood sugar is 135 even though I am eating a very low-carb diet.,1,0
+1029,My husband’s liver enzymes are elevated due to his heavy drinking and it’s a wake-up call.,1,0
+1030,My latest bone density scan shows that I have progressed from osteopenia to osteoporosis.,1,0
+1031,My latest MRI shows that my Multiple Sclerosis has progressed with three new lesions.,1,0
+1032,My mother had a massive heart attack last night and is currently on a ventilator.,1,0
+1033,My son’s vision is 20/200 in his left eye and he needs to wear an eye patch for six hours a day.,1,0
+1034,My triglycerides are over 500 and the doctor says I am at high risk for pancreatitis.,1,0
+1035,My son was diagnosed with a severe sensory processing disorder by the occupational therapist.,1,0
+1036,My mother's Stage 3 breast cancer has spread to her sentinel lymph nodes.,1,0
+1037,My husband was diagnosed with Type 2 diabetes after his routine physical last week.,1,0
+1038,My fasting glucose was 155 this morning and I think I need to adjust my medication.,1,0
+1039,My daughter's asthma is so bad today that her rescue inhaler isn't providing any relief.,1,0
+1040,I just received my lab results and my iron saturation is only 5 percent.,1,0
+1041,I just found out my white blood cell count is dangerously low after my last chemo.,1,0
+1042,I have been diagnosed with social anxiety disorder and I can't even go to the grocery store.,1,0
+1043,I am recovering from a major surgery to remove a benign tumor from my spinal cord.,1,0
+1044,I am currently in the ER for a suspected heart attack but hoping it is just a panic attack.,1,0
+1045,I am currently dealing with a severe gout flare in both of my ankles today.,1,0
+1046,I am currently hospitalized for a severe kidney infection that has gone into my bloodstream.,1,0
+1047,I am currently in a dark room with a migraine that feels like a knife in my brain.,1,0
+1048,I am currently recovering from a hernia repair surgery and it hurts to even cough.,1,0
+1049,I am experiencing severe side effects from my new antidepressant including intense nausea.,1,0
+1050,I have been diagnosed with Borderline Personality Disorder and I am starting DBT therapy.,1,0
+1051,I have been diagnosed with fibromyalgia and the full-body pain is unbearable today.,1,0
+1052,I just found out I have a large gallstone that is blocking my bile duct.,1,0
+1053,I just found out I have high ocular pressure and need to start daily eye drops for glaucoma.,1,0
+1054,My daughter has a severe allergy to bee stings and we have to carry two EpiPens at all times.,1,0
+1055,My father was diagnosed with a Stage 2 malignant melanoma on his left shoulder.,1,0
+1056,My husband's blood pressure was 185/115 at his check-up today.,1,0
+1057,My latest blood work showed a TSH of 15 which explains why I am so cold and tired.,1,0
+1058,My latest scan shows that the cancer in my lungs has shrunk by 30 percent.,1,0
+1059,My mother's Alzheimer's is at a point where she no longer remembers my name.,1,0
+1060,My mother's biopsy results confirmed she has Stage 1 invasive ductal carcinoma.,1,0
+1061,My son was diagnosed with a severe case of scoliosis that requires spinal fusion surgery.,1,0
+1062,My son's blood sugar dropped to 38 last night and we had to use the emergency glucagon.,1,0
+1063,My son was diagnosed with a severe nut allergy after an accidental exposure yesterday.,1,0
+1064,My mother's dementia is progressing and she is starting to wander at night.,1,0
+1065,My latest lab results show that my testosterone levels are extremely low.,1,0
+1066,My father has been diagnosed with late-stage esophageal cancer.,1,0
+1067,My fasting blood sugar was 148 this morning despite my best efforts with diet.,1,0
+1068,My daughter's pediatrician says her growth hormone levels are significantly below normal.,1,0
+1069,My brother is currently in a psychiatric hospital for a major depressive episode.,1,0
+1070,I just received my biopsy results for the mass in my neck and it is benign.,1,0
+1071,I just found out I have a torn meniscus and need surgery to fix my knee.,1,0
+1072,I have been diagnosed with a severe case of PTSD after the accident last year.,1,0
+1073,I have been diagnosed with a severe anxiety disorder that causes constant tremors.,1,0
+1074,I am experiencing a severe flare-up of my ulcerative colitis and am losing blood.,1,0
+1075,I am currently recovering from a hip replacement and the pain is worse at night.,1,0
+1076,I am currently in the hospital for a severe asthma flare-up that won't break.,1,0
+1077,I just found out my cholesterol is 310 and I am at high risk for a heart attack.,1,0
+1078,I am currently dealing with a severe flare-up of my eczema that is causing skin infections.,1,0
+1079,I am experiencing severe withdrawal from my benzodiazepine prescription.,1,0
+1080,I just received my lab results and my liver enzymes are three times the normal limit.,1,0
+1081,My father was diagnosed with a Stage 3 prostate cancer last week.,1,0
+1082,My latest scan shows that my ovarian cancer has metastasized to my omentum.,1,0
+1083,Always consult with a certified medical professional before starting any new intensive diet or exercise plan.,0,1
+1084,Did you know that getting seven to nine hours of sleep can significantly improve your immune system?,0,1
+1085,Early detection through regular screenings is our best defense against many types of cancer.,0,1
+1086,Had a wonderful time volunteering at the local children's hospital reading stories to patients today.,0,1
+1087,High-fiber foods like whole grains and vegetables are excellent for supporting digestive wellness.,0,1
+1088,It is important to wash your hands frequently during flu season to prevent the spread of germs.,0,1
+1089,Mental health awareness is crucial for reducing the stigma surrounding therapy and medication.,0,1
+1090,Proper hydration is essential for maintaining healthy kidney function and glowing skin.,0,1
+1091,Public health campaigns for clean water are vital for preventing the spread of waterborne diseases.,0,1
+1092,Reducing processed sugar intake can lead to more stable energy levels throughout the day.,0,1
+1093,Regular physical activity is one of the most important things you can do for your heart health.,0,1
+1094,Volunteering at the hospital gift shop is a great way to support patient care initiatives.,0,1
+1095,We are hosting a community blood drive this Saturday and hope to see a great turnout.,0,1
+1096,We organized a local 5k run to raise awareness for men's mental health issues.,0,1
+1097,We delivered twenty care packages to the oncology ward to brighten the patients' day.,0,1
+1098,We are providing free health screenings for the elderly at the community center tomorrow morning.,0,1
+1099,Taking short breaks to stretch throughout the workday can prevent chronic back and neck pain.,0,1
+1100,Staying active in your senior years is key to maintaining mobility and independence.,0,1
+1101,Social support systems are incredibly important for people recovering from major surgeries.,0,1
+1102,Seasonal allergies can often be managed with over-the-counter antihistamines and air purifiers.,0,1
+1103,Remember to apply sunscreen every morning to protect your skin from harmful ultraviolet rays.,0,1
+1104,Regular dental checkups are important for maintaining both oral and overall systemic health.,0,1
+1105,Promoting health literacy helps patients make more informed decisions about their treatments.,0,1
+1106,Practicing mindfulness and meditation can help lower cortisol levels and reduce daily stress.,0,1
+1107,Our charity foundation raised over five thousand dollars for pediatric heart research this weekend.,0,1
+1108,It is vital to finish your entire course of antibiotics even if you start feeling better early.,0,1
+1109,It is a good idea to keep a list of your allergies in your wallet for emergency situations.,0,1
+1110,Eating a variety of colorful vegetables ensures you get a wide range of essential vitamins.,0,1
+1111,Always disclose any herbal supplements you are taking to your doctor to avoid drug interactions.,0,1
+1112,Always wear a helmet when cycling or skating to protect yourself from traumatic brain injuries.,0,1
+1113,Annual eye exams can detect early signs of vision problems and other underlying health conditions.,0,1
+1114,Destigmatizing mental health starts with having open and honest conversations with our friends.,0,1
+1115,It is important to stay up to date with your vaccinations to protect the most vulnerable in our community.,0,1
+1116,Our group volunteered to clean up the local park to encourage more outdoor physical activity.,0,1
+1117,Practicing deep breathing exercises can be a simple but effective way to manage sudden anxiety.,0,1
+1118,Proper posture while sitting at a computer can prevent long-term musculoskeletal issues.,0,1
+1119,Raising awareness for rare diseases is essential for securing research funding and support.,0,1
+1120,Small lifestyle changes like taking the stairs instead of the elevator can improve heart health.,0,1
+1121,Understanding nutrition labels is the first step toward making healthier choices at the grocery store.,0,1
+1122,We are launching a new educational program to help teenagers understand the risks of vaping.,0,1
+1123,We donated ten new wheelchairs to the physical therapy department of the public hospital today.,0,1
+1124,We organized a free webinar with a nutritionist to discuss healthy eating on a budget.,0,1
+1125,We volunteered to help patients navigate the hospital's new digital check-in system today.,0,1
+1126,We are raising funds to build a new playground that is accessible for children with physical disabilities.,0,1
+1127,We are providing free flu shots for low-income families at the health clinic this afternoon.,0,1
+1128,Walking in nature has been shown to lower blood pressure and improve mental clarity.,0,1
+1129,Supporting local hospitals through donations helps ensure they have the latest life-saving technology.,0,1
+1130,Regular hearing tests are important as we age to prevent social isolation and cognitive decline.,0,1
+1131,Promoting workplace wellness can lead to higher productivity and lower rates of employee burnout.,0,1
+1132,Our foundation is funding a new study on the impact of nutrition on childhood development.,0,1
+1133,Let's celebrate the hardworking nurses and doctors who work tirelessly around the clock for us.,0,1
+1134,Learning basic first aid and CPR is a skill that everyone should have to save lives in an emergency.,0,1
+1135,It is essential to listen to your body and rest when you feel physically or mentally overwhelmed.,0,1
+1136,Encouraging children to play outside for at least an hour a day is vital for their growth.,0,1
+1137,Always check the expiration dates on the items in your home first aid kit once a year.,0,1
+1138,A healthy gut microbiome is linked to better mood regulation and overall immune response.,0,1
+1139,We organized a community garden to provide fresh produce for families living in food deserts.,0,1
+1140,A balanced breakfast provides the energy your body needs to start the day successfully.,0,1
+1141,Always store medications in a cool dry place and out of the reach of small children.,0,1
+1142,Encouraging physical activity in schools is vital for the health of future generations.,0,1
+1143,It is a myth that you only need to see a doctor when you are feeling physically sick.,0,1
+1144,It is important to have an open and honest relationship with your primary care physician.,0,1
+1145,It is important to stay hydrated even in cold weather when you might not feel as thirsty.,0,1
+1146,Learning to manage time effectively can reduce the chronic stress that leads to health problems.,0,1
+1147,Our organization is working to improve access to healthcare for underserved rural communities.,0,1
+1148,Proper handwashing is one of the most effective ways to stay healthy during the cold and flu season.,0,1
+1149,Protecting your hearing in loud environments can prevent permanent noise-induced hearing loss.,0,1
+1150,Raising awareness about the signs of a stroke can help people get medical attention faster.,0,1
+1151,Stretching before and after a workout helps maintain muscle flexibility and prevents injury.,0,1
+1152,Understanding the relationship between sleep and heart health is crucial for long-term wellness.,0,1
+1153,Using ergonomic equipment in the office can significantly reduce the risk of repetitive strain injuries.,0,1
+1154,We are donating one hundred boxes of surgical masks to the local nursing home this week.,0,1
+1155,We are donating proceeds from our charity auction to the local mental health crisis hotline.,0,1
+1156,We are hosting a workshop on how to cook healthy meals for families with busy schedules.,0,1
+1157,We are launching a new campaign to help people understand the importance of skin cancer checks.,0,1
+1158,We are raising funds for a mobile health unit that brings medical care to those in remote areas.,0,1
+1159,We are supporting a global initiative to eradicate polio through increased vaccine access.,0,1
+1160,We spent the day at the hospital helping visitors find their way to various medical departments.,0,1
+1161,We spent the morning at the senior center teaching a basic chair yoga class for beginners.,0,1
+1162,We volunteered at the hospital information desk to assist families during visiting hours.,0,1
+1163,We volunteered to paint the walls of the pediatric wing to make it more colorful for the kids.,0,1
+1164,We volunteered to help organize the medical records at the community health clinic.,0,1
+1165,We volunteered at the blood center to help donors feel comfortable during their appointments.,0,1
+1166,We spent the weekend at a health fair providing free blood pressure screenings for everyone.,0,1
+1167,We spent the day at the hospital providing free hand massages for the nursing staff.,0,1
+1168,We are raising awareness about the importance of bone health for postmenopausal women.,0,1
+1169,We are providing free yoga and meditation classes in the local park every Sunday morning.,0,1
+1170,We are providing free nutrition consultations for pregnant women in our local area today.,0,1
+1171,We are funding a research project to find better treatments for chronic autoimmune conditions.,0,1
+1172,We are donating twenty pulse oximeters to the local home for the elderly this week.,0,1
+1173,We are donating thousands of pairs of medical gloves to the regional hospital this month.,0,1
+1174,We are donating a portion of our profits to a charity that provides clean water in Africa.,0,1
+1175,Understanding the symptoms of seasonal affective disorder can help people seek treatment early.,0,1
+1176,Understanding the signs of heat exhaustion is important for anyone who works or exercises outdoors.,0,1
+1177,Supporting the development of new antibiotics is crucial for the future of modern medicine.,0,1
+1178,Supporting research into infectious diseases is essential for maintaining global health security.,0,1
+1179,Promoting a positive body image is a key component of mental health for young adults.,0,1
+1180,It is important to realize that mental health issues can affect anyone regardless of their age.,0,1
+1181,It is important to be aware of the high sugar content in many seemingly healthy fruit juices.,0,1
+1182,Encouraging people to walk or cycle to work can reduce air pollution and improve fitness.,0,1
+1183,Always wear protective gear when playing contact sports to avoid serious physical injuries.,0,1
+1184,Always follow the instructions on your medication labels to ensure they are used effectively.,0,1
+1185,Always carry an identification card that lists your emergency contacts and any chronic conditions.,0,1
+1186,We spent the day at the children's hospital decorating the common rooms for the holidays.,0,1
+1187,Always check with your pharmacist if you have any questions about your new prescriptions.,0,1
+1188,Always keep your medical history organized so you can share it accurately with new doctors.,0,1
+1189,It is important to maintain a healthy weight to reduce the strain on your heart and joints.,0,1
+1190,It is important to stay calm and follow emergency protocols during a medical crisis.,0,1
+1191,Promoting healthy habits at a young age creates a strong foundation for a lifetime of wellness.,0,1
+1192,Promoting safe sleep practices for infants is vital for preventing sudden infant death syndrome.,0,1
+1193,Promoting the use of reusable water bottles encourages both hydration and environmental care.,0,1
+1194,Supporting public health research helps us prepare for and prevent future pandemics.,0,1
+1195,Supporting the training of more healthcare workers is essential for a resilient medical system.,0,1
+1196,Understanding the importance of oral hygiene can prevent serious gum disease and tooth loss.,0,1
+1197,Understanding the risks of secondhand smoke is vital for protecting the health of children.,0,1
+1198,We are donating fifty blood pressure monitors to the community outreach program today.,0,1
+1199,We are donating one hundred warm blankets to the patients in the dialysis center today.,0,1
+1200,We are providing free mental health resources for students during the final exam period.,0,1
+1201,We are providing free seminars on how to avoid burnout for local healthcare professionals.,0,1
+1202,We are raising awareness about the early warning signs of childhood leukemia.,0,1
+1203,We are raising funds to provide hearing aids for low-income seniors in our community.,0,1
+1204,We spent the afternoon at the hospital reading poetry to elderly patients in long-term care.,0,1
+1205,We spent the morning at the hospital helping patients find their way to the radiology department.,0,1
+1206,We volunteered at the medical library to help organize the latest medical journals.,0,1
+1207,We volunteered to help with the landscaping at the local hospital to create a healing garden.,0,1
+1208,We volunteered to help with the administrative work at the local blood donation center.,0,1
+1209,We volunteered at the hospital to help prepare the meal trays for the patients this evening.,0,1
+1210,We volunteered at the community clinic to help with the registration of new patients.,0,1
+1211,We spent the day at the hospital helping to organize a music therapy session for patients.,0,1
+1212,We spent the afternoon at the senior center helping them navigate their online health portals.,0,1
+1213,We are raising funds for a new oncology center to serve the needs of our local community.,0,1
+1214,We are raising funds for a new medical research facility at the local university.,0,1
+1215,We are raising awareness about the importance of regular skin checks to prevent melanoma.,0,1
+1216,We are providing free support materials for families who are caring for loved ones with dementia.,0,1
+1217,We are providing free educational materials on the benefits of a plant-rich diet for heart health,0,1
+1218,We are providing free CPR training sessions for all high school students in the district.,0,1
+1219,We are donating ten nebulizer machines to the pediatric department of the public hospital.,0,1
+1220,We are donating fifty digital thermometers to the local elementary school this month.,0,1
+1221,Understanding the link between physical activity and mental health is very empowering.,0,1
+1222,Understanding the impact of air quality on respiratory health is becoming increasingly important.,0,1
+1223,Supporting the local food bank ensures that everyone in our community has access to nutrition.,0,1
+1224,Supporting initiatives for healthy school lunches is an investment in our children's future.,0,1
+1225,Supporting efforts to reduce medical waste is important for a more sustainable healthcare system.,0,1
+1226,Promoting regular health checkups helps catch potential problems before they become serious.,0,1
+1227,Promoting health and wellness in your community can have a lasting positive impact on everyone.,0,1
+1228,It is important to have a basic understanding of how the human cardiovascular system works.,0,1
+1229,It is important to be supportive and non-judgmental toward people with mental health conditions.,0,1
+1230,It is important to be mindful of your screen time to prevent digital eye strain and headaches.,0,1
+1231,Always take a moment to breathe and center yourself when you feel your stress levels rising.,0,1
+1232,Always be honest with your healthcare provider about your lifestyle habits to get the best care.,0,1
+1233,Another meeting that could have been an email just ruined my entire morning productivity.,1,0
+1234,Every time I try to set boundaries my supervisor calls it a lack of team spirit.,1,0
+1235,I am counting down the minutes until I can leave this cubicle forever.,1,0
+1236,I am tired of my coworkers taking credit for the work I stayed up all night doing.,1,0
+1237,I found out a new hire is making more than me despite having half the experience.,1,0
+1238,I was promised a raise six months ago and I am still waiting for the paperwork.,1,0
+1239,Micromanagement is the fastest way to kill my motivation and I am at zero now.,1,0
+1240,My boss just asked for a report due at 5 PM when it is already 4:30 PM.,1,0
+1241,My colleague spends more time gossiping about the CEO than actually working.,1,0
+1242,My manager has zero leadership skills and it shows in every decision they make.,1,0
+1243,The annual bonus was a joke compared to the record profits they announced last week.,1,0
+1244,The pay gap in this department is getting harder to ignore every single day.,1,0
+1245,They talk about work-life balance while sending me Slack messages at 10 PM.,1,0
+1246,This office environment is so toxic that I start feeling anxious on Sunday night.,1,0
+1247,Watching my manager struggle with basic technology is the highlight of my misery.,1,0
+1248,The internal politics here are more complicated than the actual business strategy.,1,0
+1249,The glass ceiling in this company is made of reinforced steel.,1,0
+1250,The favoritism in this office is so obvious it is almost insulting to the rest of us.,1,0
+1251,My performance review was great but they said there is no budget for raises.,1,0
+1252,My coworker smells like old tuna every single day and no one says anything.,1,0
+1253,My boss likes to use we when talking about successes but you when talking about failures.,1,0
+1254,It is frustrating how the loudest person in the room always gets the promotion.,1,0
+1255,I hate how we have to pretend to be a family when we are just numbers on a sheet.,1,0
+1256,I caught my teammate lying to the client just to cover up their own mistake.,1,0
+1257,I am pretty sure my boss has no idea what my job description actually entails.,1,0
+1258,I am only staying for the health insurance and it feels like a prison sentence.,1,0
+1259,I am doing the work of three people and getting paid for three-quarters of one.,1,0
+1260,I am burnt out and the only solution they offered was a pizza party.,1,0
+1261,If I hear the phrase circle back one more time I might actually lose my mind.,1,0
+1262,I am currently hiding in the bathroom just to get five minutes of peace.,1,0
+1263,I am sick of the passive-aggressive emails from the accounting department.,1,0
+1264,I am tired of being the only person who actually follows the standard procedures.,1,0
+1265,I feel like my career is stagnating because my boss is afraid of my potential.,1,0
+1266,I have been job hunting on company time because they do not value my presence.,1,0
+1267,I was excluded from the meeting invite again and I know it was intentional.,1,0
+1268,My commute is two hours long for a job that could be done entirely from home.,1,0
+1269,My coworker keeps stealing my ideas and presenting them in the group chat.,1,0
+1270,My coworkers are complaining about their third vacation while I can barely afford rent.,1,0
+1271,My manager expects me to be grateful for a 1 percent cost of living adjustment.,1,0
+1272,My supervisor interrupts me every time I try to explain a technical constraint.,1,0
+1273,The company culture is just a collection of buzzwords framed on a wall.,1,0
+1274,The equipment we use is from the stone age but they expect lightning speed.,1,0
+1275,The HR department is only there to protect the company not the employees.,1,0
+1276,The lack of transparency regarding the company's financial health is terrifying.,1,0
+1277,The office air conditioning is set to freezing and my requests to change it are ignored.,1,0
+1278,The turnover rate here should be a giant red flag for anyone applying.,1,0
+1279,They denied my time off request for a wedding I told them about months ago.,1,0
+1280,The open office plan was designed by someone who hates productivity and privacy.,1,0
+1281,The company values are a joke considering how they treat the junior staff.,1,0
+1282,The coffee machine is broken again and it is the only thing keeping me sane.,1,0
+1283,My salary does not match the level of stress this job requires.,1,0
+1284,My paycheck was late this month and the excuse was a system glitch.,1,0
+1285,My colleague never listens during meetings and then asks me to explain everything later.,1,0
+1286,My boss criticized my tone in an email that was perfectly professional.,1,0
+1287,Management is restructuring again which is just code for more work for less pay.,1,0
+1288,It is demoralizing to see the executive team get new cars while we get a pay freeze.,1,0
+1289,I spend more time filling out progress reports than actually making progress.,1,0
+1290,I have to document every minute of my day like I am a toddler in daycare.,1,0
+1291,I found out my project was canceled through a rumor in the breakroom.,1,0
+1292,I feel like a cog in a machine that is desperately in need of oil.,1,0
+1293,I am tired of cleaning up the messes left by the senior developers.,1,0
+1294,I am so tired of the corporate jargon used to mask bad news.,1,0
+1295,I am getting blamed for a delay that was caused by a different department entirely.,1,0
+1296,Every time I ask for feedback my manager just says you are doing fine.,1,0
+1297,I am exhausted from pretending to be happy during these forced social events.,1,0
+1298,I am being forced to train my own replacement before they lay me off.,1,0
+1299,I am tired of the fake smiles and the corporate politics in this building.,1,0
+1300,I am tired of the mental gymnastics required to justify staying at this job.,1,0
+1301,I am underpaid overworked and completely underappreciated by this firm.,1,0
+1302,I cannot wait for the day I can delete this Slack app from my phone.,1,0
+1303,I found a job posting for my own position on LinkedIn today.,1,0
+1304,I was told I was not a culture fit because I do not stay late every night.,1,0
+1305,My boss is a classic example of failing upward in the corporate world.,1,0
+1306,My boss takes personal phone calls on speaker in the middle of the office.,1,0
+1307,My coworker is a nightmare to collaborate with because of their ego.,1,0
+1308,My manager gaslights me into thinking I am the one who misunderstood the instructions.,1,0
+1309,My teammate is lazy and I am the one who has to finish their tasks.,1,0
+1310,The company benefits package is getting worse every single year.,1,0
+1311,The constant change in direction from leadership is giving me whiplash.,1,0
+1312,The heating is broken and I am wearing a coat at my desk in December.,1,0
+1313,The interview process was a lie compared to the actual daily reality here.,1,0
+1314,The lack of training here is unbelievable considering the complexity of the tools.,1,0
+1315,The salary transparency movement needs to hit this office immediately.,1,0
+1316,The office gossip is the only way anyone knows what is actually happening.,1,0
+1317,The internal communication system is a mess of outdated threads and lost files.,1,0
+1318,The dress code is outdated and serves no purpose for our line of work.,1,0
+1319,The company retreat was just a weekend of working in a different location.,1,0
+1320,My supervisor takes credit for the team's success but hides during failure.,1,0
+1321,My requests for better software are always denied due to budget cuts.,1,0
+1322,My manager is threatened by anyone who has a better idea than theirs.,1,0
+1323,My desk is right under a leaky pipe and maintenance has ignored it for weeks.,1,0
+1324,My colleague is the most passive-aggressive person I have ever met.,1,0
+1325,I feel like my brain is rotting from these repetitive and soul-crushing tasks.,1,0
+1326,I feel like I am losing my personality in this gray cubicle.,1,0
+1327,I am tired of the performative inclusivity that never leads to real change.,1,0
+1328,I am tired of the boys club atmosphere in the senior management meetings.,1,0
+1329,I am so tired of being told to do more with less every quarter.,1,0
+1330,I am dreading the performance review because it is always about what I did not do.,1,0
+1331,I am convinced my boss does not actually know how to do my job.,1,0
+1332,I am being asked to work on my vacation and I am tempted to say no.,1,0
+1333,My manager loves to set impossible deadlines just to see us scramble.,1,0
+1334,I am losing sleep over a project that the client will probably never use.,1,0
+1335,I am sick of the corporate jargon that makes simple things sound complex.,1,0
+1336,I am tired of being the emotional support for my disorganized boss.,1,0
+1337,I am tired of the lack of accountability at the executive level.,1,0
+1338,I am tired of the mandatory fun activities that are actually just more work.,1,0
+1339,I am underpaid and overqualified for this specific role.,1,0
+1340,I feel like I am being punished for being efficient by getting more work.,1,0
+1341,I found out the company is skipping the holiday party to save money.,1,0
+1342,My boss calls me on my personal number on Sunday afternoons for non-emergencies.,1,0
+1343,My coworker keeps talking over me in every single brainstorming session.,1,0
+1344,My manager never gives clear instructions and then gets mad when I guess wrong.,1,0
+1345,My teammate ignores my emails but responds instantly when the boss is CCed.,1,0
+1346,My workstation is so old that it crashes at least three times a day.,1,0
+1347,The commute is literally the worst part of my entire existence right now.,1,0
+1348,The company culture is basically just working until you burn out and then being replaced.,1,0
+1349,The company is losing its best people and management does not seem to care.,1,0
+1350,The office snacks are the only benefit and even those are stale.,1,0
+1351,The promotion I was promised went to the CEO's nephew instead.,1,0
+1352,The reimbursement process for travel expenses is a nightmare of red tape.,1,0
+1353,The office politics are so thick you could cut them with a knife.,1,0
+1354,The office chairs are causing me chronic back pain and they will not replace them.,1,0
+1355,The lack of diversity in the leadership team is very telling.,1,0
+1356,The lack of career pathing here makes me feel like I am in a dead end.,1,0
+1357,The company policies are designed to make taking sick leave a hassle.,1,0
+1358,My supervisor is obsessed with optics rather than actual results.,1,0
+1359,My manager is always on vacation during the busiest weeks of the year.,1,0
+1360,My manager is always late to our one on one meetings but expects me to be early.,1,0
+1361,My colleague spends the whole day on social media while I do their work.,1,0
+1362,My boss is a micromanager who needs to approve every single comma.,1,0
+1363,I am under so much stress that I can feel it in my chest every morning.,1,0
+1364,I am tired of the long hours for a salary that has not moved in three years.,1,0
+1365,I am tired of the gaslighting about how lucky we are to work here.,1,0
+1366,I am tired of the double standards for management and staff.,1,0
+1367,I am sick of the competitive atmosphere between people on the same team.,1,0
+1368,I am sick of the blame culture that permeates this entire organization.,1,0
+1369,I am getting tired of the fake empathy from the HR department.,1,0
+1370,I am currently looking for any excuse to quit this miserable job.,1,0
+1371,I am being forced to use an outdated system that makes my job twice as hard.,1,0
+1372,This job is slowly draining the life out of me and I need to escape.,1,0
+1373,The office is too loud and I can never concentrate on my tasks.,1,0
+1374,The company vision is just a bunch of nonsense meant for shareholders.,1,0
+1375,My supervisor is completely disconnected from the reality of the workflow.,1,0
+1376,My manager is a bully who uses fear to get what they want.,1,0
+1377,My coworker is a suck up who tells the boss everything we say in private.,1,0
+1378,I am underpaid compared to the industry standard and I know it.,1,0
+1379,I am tired of the performative busy work that serves no purpose.,1,0
+1380,I am tired of the constant fire drills caused by poor planning.,1,0
+1381,I am sick of the hidden agendas in every single project meeting.,1,0
+1382,I am counting the days until my contract is finally up.,1,0
+1383,A quick tip for productivity is to tackle your hardest task first thing in the morning.,0,1
+1384,Celebrating five years at a company that truly values innovation and growth.,0,1
+1385,Consistency is the most underrated trait in a successful professional career.,0,1
+1386,Deep work sessions are the only way I can get through complex coding problems.,0,1
+1387,Grateful for a mentor who pushed me to step out of my comfort zone this year.,0,1
+1388,I am reading a fascinating book on organizational psychology this weekend.,0,1
+1389,I learned a new shortcut in Excel today that is going to save me so much time.,0,1
+1390,It is a beautiful morning to grab a coffee and tackle the to-do list.,0,1
+1391,Learning to say no to low-priority tasks is a vital skill for leadership.,0,1
+1392,Networking is not about collecting business cards but building real relationships.,0,1
+1393,Our new product launch was a huge success thanks to the hard work of everyone.,0,1
+1394,Our team just hit the quarterly goal two weeks early and I am so proud.,0,1
+1395,Remote work has completely changed the way I approach my daily routine.,0,1
+1396,The keynote speech at today's conference provided some great insights on AI.,0,1
+1397,The office layout redesign has really improved the collaborative energy.,0,1
+1398,The company volunteer day was a great way to give back to the local community.,0,1
+1399,Taking a short walk during lunch helps me reset for the afternoon sessions.,0,1
+1400,Soft skills like empathy and listening are just as important as technical ability.,0,1
+1401,Setting clear expectations is the foundation of any successful project.,0,1
+1402,Public speaking gets easier the more you practice and put yourself out there.,0,1
+1403,Professional development is a marathon not a sprint so keep learning.,0,1
+1404,My favorite part of the job is solving problems that seemed impossible at first.,0,1
+1405,Mentoring a junior developer has taught me more about my own craft.,0,1
+1406,Keeping a clean inbox is the best feeling at the end of a Friday afternoon.,0,1
+1407,I love seeing our clients achieve their goals using the tools we built.,0,1
+1408,I am excited to start the new certification course starting next Monday.,0,1
+1409,Documenting your processes is a gift to your future self and your team.,0,1
+1410,Diversity in the workplace brings perspectives that lead to better solutions.,0,1
+1411,Always double-check your work before hitting send on that final proposal.,0,1
+1412,A positive attitude in the workplace is contagious and improves everyone's day.,0,1
+1413,We just signed a new partnership that will expand our reach globally.,0,1
+1414,A well-organized workspace leads to a well-organized mind.,0,1
+1415,Building a personal brand is about being authentic and sharing your journey.,0,1
+1416,Clear communication reduces friction and speeds up the development cycle.,0,1
+1417,Collaboration across different departments leads to the most creative ideas.,0,1
+1418,Every mistake is a lesson learned if you take the time to reflect on it.,0,1
+1419,Hard work pays off when you stay focused on the long-term vision.,0,1
+1420,I am grateful for the opportunity to work on projects that have a real impact.,0,1
+1421,I am looking forward to the industry meetup happening in the city tonight.,0,1
+1422,I appreciate how our company supports continuous education for all staff.,0,1
+1423,I find that a standing desk really helps me stay focused during long calls.,0,1
+1424,It is important to celebrate the small wins along the way to the big ones.,0,1
+1425,Just finished a productive brainstorming session with the design team.,0,1
+1426,The tech industry is constantly evolving and that is what makes it exciting.,0,1
+1427,Time management is about energy management as much as it is about clocks.,0,1
+1428,Today was one of those days where everything just clicked perfectly.,0,1
+1429,Understanding your audience is the first step to effective communication.,0,1
+1430,Trust is the currency of high-performing teams across all sectors.,0,1
+1431,The best teams are those where everyone feels safe to share their ideas.,0,1
+1432,Technology should serve the people and simplify their daily tasks.,0,1
+1433,Staying curious is the best way to stay relevant in any industry.,0,1
+1434,Reflection is a key part of the creative process that we often overlook.,0,1
+1435,Our quarterly review showed significant growth in customer satisfaction.,0,1
+1436,Listening to a podcast about leadership during my commute today.,0,1
+1437,I enjoy mentoring new interns and seeing them grow in their roles.,0,1
+1438,I am proud to work for a company that prioritizes sustainability in its operations.,0,1
+1439,I am inspired by the talent and dedication of my colleagues every day.,0,1
+1440,I am focusing on improving my data visualization skills this quarter.,0,1
+1441,I am attending a workshop on agile methodologies tomorrow morning.,0,1
+1442,Growth happens when you are willing to ask questions and admit what you do not know.,0,1
+1443,Good design is about making the complex feel simple and intuitive.,0,1
+1444,Finding a balance between speed and quality is the ultimate professional challenge.,0,1
+1445,A quick check-in with the team can prevent a lot of confusion later on.,0,1
+1446,Taking ownership of your projects leads to better outcomes and more pride.,0,1
+1447,A clear mission statement helps everyone stay aligned on the big picture.,0,1
+1448,A supportive work environment makes all the difference in achieving goals.,0,1
+1449,Automation allows us to focus on the tasks that require human creativity.,0,1
+1450,Efficiency is about doing the right things not just doing things fast.,0,1
+1451,Feedback is a gift that helps us grow if we are willing to listen.,0,1
+1452,I am constantly amazed by the power of collaborative problem solving.,0,1
+1453,I am excited to share my latest project at the team meeting today.,0,1
+1454,I am focusing on deep work today to finish the technical specifications.,0,1
+1455,I am grateful for the flexibility that my current role provides.,0,1
+1456,I am looking forward to representing the company at the trade show.,0,1
+1457,I am looking forward to the new challenges that the next project will bring.,0,1
+1458,I am proud of the progress we have made on the new app feature.,0,1
+1459,I find that writing down my goals makes them much more achievable.,0,1
+1460,Keeping up with industry trends is part of the job and I love it.,0,1
+1461,Learning from experts in the field is the best way to accelerate your career.,0,1
+1462,Professionalism is about how you treat people when things go wrong.,0,1
+1463,Resilience is about bouncing back stronger after a setback or failure.,0,1
+1464,Strategic thinking requires taking a step back from the daily grind.,0,1
+1465,Success is a team sport and I am lucky to have a great one.,0,1
+1466,Working with international clients has broadened my perspective significantly.,0,1
+1467,Leadership is about serving others and helping them reach their potential.,0,1
+1468,Innovation requires the courage to try new things and fail occasionally.,0,1
+1469,I find that a mid-day stretch helps me stay energized for the afternoon.,0,1
+1470,I enjoy the fast-paced nature of the startup world and the constant learning.,0,1
+1471,I am working on refining my presentation skills for the upcoming board meeting.,0,1
+1472,I am proud of our team for delivering the project ahead of schedule.,0,1
+1473,I am looking forward to the team building event this Friday afternoon.,0,1
+1474,I am learning so much from the senior architects on this project.,0,1
+1475,I am excited about the new partnerships we are building this year.,0,1
+1476,I am enjoying the process of building something from the ground up.,0,1
+1477,Gratitude is a powerful tool for maintaining a positive outlook at work.,0,1
+1478,Collaboration is the key to unlocking the full potential of any idea.,0,1
+1479,Clarity in communication is the best way to avoid unnecessary rework.,0,1
+1480,Being proactive is always better than being reactive in business.,0,1
+1481,A healthy work culture starts with mutual respect and open dialogue.,0,1
+1482,Career growth is a journey that requires both patience and persistence.,0,1
+1483,A positive mindset helps me navigate even the busiest work days.,0,1
+1484,A well-defined project scope is the secret to a stress-free delivery.,0,1
+1485,Being a lifelong learner is essential in today's rapidly changing world.,0,1
+1486,Every project is an opportunity to learn something new and improve.,0,1
+1487,Hard work is the foundation of every major achievement in my career.,0,1
+1488,Honesty and integrity are the most important values in any business.,0,1
+1489,I am excited about the potential of the new market we are entering.,0,1
+1490,I am excited to see the impact of our new software on the industry.,0,1
+1491,I am focusing on building better habits to improve my daily focus.,0,1
+1492,I am grateful for the mentorship I have received throughout my career.,0,1
+1493,I am looking forward to the insights from the customer feedback session.,0,1
+1494,I am proud of the inclusive environment we are building at our company.,0,1
+1495,I am proud to be part of a team that cares about social responsibility.,0,1
+1496,I enjoy the challenge of finding creative solutions to technical problems.,0,1
+1497,I enjoy the opportunity to work with people from diverse backgrounds.,0,1
+1498,I find that a quiet morning is the best time for strategic planning.,0,1
+1499,Mentorship is a two-way street that benefits both the mentor and mentee.,0,1
+1500,Setting boundaries is essential for maintaining long-term productivity.,0,1
+1501,Staying organized is the only way I can manage multiple projects at once.,0,1
+1502,The success of our latest marketing campaign has exceeded our expectations.,0,1
+1503,The success of the company is a reflection of the hard work of the team.,0,1
+1504,Staying adaptable is the key to thriving in a dynamic work environment.,0,1
+1505,Professional networking has opened up so many doors for my career.,0,1
+1506,Learning to manage stress is just as important as learning technical skills.,0,1
+1507,I enjoy the sense of accomplishment that comes with finishing a big project.,0,1
+1508,I enjoy the collaborative spirit that defines our office culture.,0,1
+1509,I enjoy the challenge of staying ahead of the curve in my profession.,0,1
+1510,I am proud of the innovative solutions our team has developed this year.,0,1
+1511,I am proud of the high standards we maintain in our customer service.,0,1
+1512,I am looking forward to the opportunities for growth in the coming year.,0,1
+1513,I am looking forward to the launch of our new internal training program.,0,1
+1514,I am grateful for the colleagues who make coming to work every day a joy.,0,1
+1515,I am focusing on improving my active listening skills during meetings.,0,1
+1516,I am excited about the new technologies we are integrating into our workflow.,0,1
+1517,Empathy is a key leadership trait that builds trust and loyalty.,0,1
+1518,Effective teamwork is about leveraging the strengths of every individual.,0,1
+1519,Continuous improvement is the goal of every successful organization.,0,1
+1520,Being open to new ideas is the first step toward innovation.,0,1
+1521,A supportive manager can make a huge difference in your career path.,0,1
+1522,A clear vision for the future helps us stay motivated during tough times.,0,1
+1523,A strong work ethic is something that will serve you throughout your life.,0,1
+1524,Collaboration is the most powerful tool we have for solving problems.,0,1
+1525,I am grateful for a career that allows me to keep learning and growing.,0,1
+1526,I am looking forward to the professional growth this new role will offer.,0,1
+1527,I am proud of the positive feedback we received from our latest client.,0,1
+1528,I am proud of the resilience our team has shown over the past few months.,0,1
+1529,I enjoy the opportunity to contribute to projects that matter.,0,1
+1530,Setting small goals each day keeps me moving in the right direction.,0,1
+1531,Staying focused on the big picture helps me prioritize my daily tasks.,0,1
+1532,Success is about the journey as much as it is about the destination.,0,1
+1533,Every time I ask for a resource to do my job better I am told to just be creative.,1,0
+1534,I am being asked to do the work of a director on a junior assistant salary.,1,0
+1535,I am doing free labor on weekends just to keep the department from collapsing.,1,0
+1536,I am pretty sure the HR investigation into my supervisor was just a formality to protect them.,1,0
+1537,I am tired of my manager using my ideas in the executive meeting without mentioning my name.,1,0
+1538,I feel like I am being watched by the IT department every time I take a five minute break.,1,0
+1539,I found the budget spreadsheet by accident and everyone is getting paid more than me.,1,0
+1540,I have to pay for my own parking even though the company owns the entire building.,1,0
+1541,I overheard my boss making fun of my presentation style with the other leads.,1,0
+1542,My boss gave me a performance score of three out of five just to avoid paying the full bonus.,1,0
+1543,My boss just took a two week vacation after denying my two day bereavement leave.,1,0
+1544,My coworker spent three hours at lunch and then asked me to help with their overdue tasks.,1,0
+1545,My paycheck was short fifty dollars again and they told me to wait until next month for the fix.,1,0
+1546,My supervisor told me to lie to the client about our current project status.,1,0
+1547,My teammate is clearly working a second job during our office hours.,1,0
+1548,The company claims to be eco-friendly but the office waste is absolutely staggering.,1,0
+1549,The nepotism here is so thick it is impossible for outsiders to ever move up.,1,0
+1550,The office gossip about the marketing manager is getting out of hand and very unprofessional.,1,0
+1551,The passive aggression in the group chat today is reaching a breaking point.,1,0
+1552,There is a secret Slack channel for the cool kids and it makes the office feel like high school.,1,0
+1553,Watching my incompetent colleague get promoted just because they play golf with the VP.,1,0
+1554,The project is failing because of management and they are looking for a scapegoat.,1,0
+1555,The health insurance premiums went up but the coverage actually got significantly worse.,1,0
+1556,The equipment I was given is literally falling apart and they refuse to replace it.,1,0
+1557,The company retreat was mandatory but they made us pay for our own dinner.,1,0
+1558,The CEO announced a hiring freeze while they are currently hiring a personal chef.,1,0
+1559,The annual reviews are just a way for them to justify why nobody is getting a promotion.,1,0
+1560,My supervisor is a micromanager who insists on being CCed on every internal chat.,1,0
+1561,My manager calls me after 9 PM just to complain about their own boss.,1,0
+1562,My desk is right next to the bathroom and the smell is making it impossible to work.,1,0
+1563,My coworker constantly interrupts me during meetings to restate exactly what I just said.,1,0
+1564,My colleague is taking credit for a script I wrote three months ago.,1,0
+1565,My boss told me I should be lucky to even have a job in this economy.,1,0
+1566,I was told I was too aggressive for asking for the raise I was promised in my contract.,1,0
+1567,I was passed over for a lead role because I am not part of the internal social circle.,1,0
+1568,I found out my male coworker makes 20 percent more for the exact same output.,1,0
+1569,I feel like I am being gaslit into thinking that working 60 hours a week is normal.,1,0
+1570,I am tired of the fake positivity in the morning stand up meetings.,1,0
+1571,I am terrified of making a mistake because the culture here is to punish rather than teach.,1,0
+1572,I am struggling to pay my rent while my manager talks about buying a third vacation home.,1,0
+1573,I am sick of being the only person who cleans the shared kitchen because everyone else is too busy.,1,0
+1574,I am being forced to use my personal laptop because the company one is too slow.,1,0
+1575,I am being punished for being efficient by being given the work of the slowest employee.,1,0
+1576,I am crying in my car before my shift because I dread seeing my manager.,1,0
+1577,I am sick of the performative diversity that only exists on the company website.,1,0
+1578,I found out that my department is being outsourced by reading a leaked email.,1,0
+1579,I have been at this company for four years and haven't had a single cost of living adjustment.,1,0
+1580,I was told to work on my birthday despite having requested it off six months ago.,1,0
+1581,My boss is threatened by my expertise and tries to block me from speaking to clients.,1,0
+1582,My colleague is definitely stealing office supplies and I am the one getting questioned.,1,0
+1583,My coworker is always late but because they are friends with HR nothing happens.,1,0
+1584,My manager said I don't have enough presence because I don't talk over people.,1,0
+1585,My supervisor is taking a nap in their office while the rest of us are drowning.,1,0
+1586,My teammate hasn't submitted a single line of code in three days and no one notices.,1,0
+1587,The bonus structure was changed at the last minute to ensure no one reached the top tier.,1,0
+1588,The company spent ten thousand dollars on a new logo but can't afford coffee for the breakroom.,1,0
+1589,The favoritism shown to the sales team is making every other department resentful.,1,0
+1590,The internal promotion process is a complete mystery and seems to be based on vibes.,1,0
+1591,The office politics are so bad that I have to record every conversation I have with my lead.,1,0
+1592,The office culture is so competitive that no one actually helps each other.,1,0
+1593,The internal documentation is ten years out of date and no one cares to fix it.,1,0
+1594,The heating is turned off at 5 PM even if we are required to stay until 8 PM.,1,0
+1595,The company values on the wall are the opposite of how the executives behave.,1,0
+1596,The company is bragging about growth while laying off the entire QA team.,1,0
+1597,My teammate is a bully and management just calls it a strong personality.,1,0
+1598,My supervisor gave me a bad review because I didn't attend a voluntary happy hour.,1,0
+1599,My paycheck was reduced because of a technicality they never explained.,1,0
+1600,My manager is an expert at taking credit for other people's hard work.,1,0
+1601,My manager is a classic narcissist who needs constant praise for basic tasks.,1,0
+1602,My coworker is using my desk as a storage unit and it is driving me crazy.,1,0
+1603,My colleague is clearly sabotaging my projects to make themselves look better.,1,0
+1604,My boss expects me to be available 24/7 for a job that barely pays the bills.,1,0
+1605,I overheard the managers talking about who they want to fire next.,1,0
+1606,I found a better job offer and I am tempted to quit without giving any notice.,1,0
+1607,I feel like my soul is being slowly crushed by these meaningless spreadsheets.,1,0
+1608,I am tired of being told to be a team player while the team lets me down constantly.,1,0
+1609,I am tired of being the only adult in a room full of senior executives.,1,0
+1610,I am sick of the corporate double speak used to justify layoffs.,1,0
+1611,I am getting paid the same salary as I was five years ago.,1,0
+1612,I am getting messages from my boss on my personal Instagram about work issues.,1,0
+1613,I am doing the work of two people and the stress is affecting my physical health.,1,0
+1614,I am being asked to train someone for a job that is higher level than mine.,1,0
+1615,I am being forced to attend a team building event on my only day off.,1,0
+1616,I am being ghosted by my own manager regarding my promotion request.,1,0
+1617,I am getting blamed for a mistake that was clearly made by my supervisor.,1,0
+1618,I am sick of the corporate jargon that means absolutely nothing.,1,0
+1619,I am sick of the micromanagement that makes every task take twice as long.,1,0
+1620,I am tired of the fake apologies from the leadership team.,1,0
+1621,I am tired of the mental gymnastics required to stay positive at this job.,1,0
+1622,I am underpaid overworked and I have had enough of this place.,1,0
+1623,I found out my salary is the lowest in the entire company for my role.,1,0
+1624,I found out the company is paying for a luxury retreat for directors only.,1,0
+1625,My boss is a liar and I have the emails to prove it.,1,0
+1626,My boss told me to stop asking questions and just do what I am told.,1,0
+1627,My coworker is getting away with murder because they are related to the CEO.,1,0
+1628,My coworker is making the office a hostile environment for everyone.,1,0
+1629,My desk is broken and maintenance told me to fix it myself.,1,0
+1630,My teammate is a constant distraction and management does nothing about it.,1,0
+1631,My teammate is taking credit for a project I did by myself.,1,0
+1632,The company is prioritizing profits over the well being of its employees.,1,0
+1633,The lack of transparency about the company's future is causing a lot of anxiety.,1,0
+1634,The office is a graveyard of dreams and I need to get out.,1,0
+1635,The lack of communication from leadership is absolutely pathetic.,1,0
+1636,The company is full of toxic people who only care about themselves.,1,0
+1637,The company is a sinking ship and everyone knows it but management.,1,0
+1638,The company is a mess and I am looking for a new job every day.,1,0
+1639,My teammate is a lazy person who does the bare minimum to get by.,1,0
+1640,My teammate is a constant source of stress and negativity.,1,0
+1641,My supervisor is a control freak who makes my life a living hell.,1,0
+1642,My supervisor is a bully who picks on the junior staff.,1,0
+1643,My paycheck is late again and no one seems to care.,1,0
+1644,My coworker is a gossip who spreads lies about everyone in the department.,1,0
+1645,My coworker is a backstabber who will do anything to get ahead.,1,0
+1646,My boss is an idiot who has no idea how to lead a team.,1,0
+1647,I am underpaid and I am not going to take it anymore.,1,0
+1648,I am under so much stress that I can't even enjoy my weekends.,1,0
+1649,I am tired of the lack of respect for my time and my work.,1,0
+1650,I am tired of the constant pressure to work overtime for no extra pay.,1,0
+1651,I am tired of being treated like a child by my manager.,1,0
+1652,I am sick of the office politics that determine who gets ahead.,1,0
+1653,I am sick of the fake smiles and the corporate bullshit.,1,0
+1654,I am getting tired of the constant changes to our project goals.,1,0
+1655,I am being forced to work in an office that is clearly unsafe.,1,0
+1656,I am being asked to do things that are clearly outside of my job description.,1,0
+1657,The company culture is a joke and no one takes it seriously.,1,0
+1658,I am being forced to work with people I don't like or respect.,1,0
+1659,I am sick of the constant lies from the leadership team.,1,0
+1660,I am sick of the constant meetings that achieve absolutely nothing.,1,0
+1661,I am tired of the lack of opportunities for growth at this company.,1,0
+1662,I am underpaid and I am doing the work of three people.,1,0
+1663,I am underpaid and I am tired of being exploited by this company.,1,0
+1664,My boss is a jerk who doesn't know the first thing about management.,1,0
+1665,My boss is a micromanager who doesn't trust anyone to do their job.,1,0
+1666,My coworker is a brown noser who is always hanging around the boss.,1,0
+1667,My coworker is a nightmare who makes the office a miserable place.,1,0
+1668,My supervisor is a nightmare who makes every day a struggle.,1,0
+1669,My teammate is a snake who will throw anyone under the bus.,1,0
+1670,The company is a disaster and I am just waiting for it to fail.,1,0
+1671,The company is a joke and I am embarrassed to work here.,1,0
+1672,The company is a toxic waste dump and I need to find a way out.,1,0
+1673,The company is a mess and I am glad to be leaving soon.,1,0
+1674,The company culture is toxic and it is affecting my mental health.,1,0
+1675,My teammate is a lazy person who is always making excuses.,1,0
+1676,My supervisor is a moron who can't even use a computer.,1,0
+1677,My coworker is a liar who is always making up stories.,1,0
+1678,My boss is a micromanager who is obsessed with the smallest details.,1,0
+1679,I am underpaid and I am ready to move on to something better.,1,0
+1680,I am tired of the lack of support from my manager and my team.,1,0
+1681,I am sick of the constant drama in the office.,1,0
+1682,I am being forced to work long hours for no extra compensation.,1,0
+1683,A clear product roadmap is the secret to keeping the development team focused.,0,1
+1684,A five minute walk between meetings is enough to clear my head for the next one.,0,1
+1685,Attending a webinar today on the future of sustainable energy in tech.,0,1
+1686,Building an inclusive team starts with being intentional about our hiring.,0,1
+1687,Celebrating my tenth year in the industry with a lot of gratitude for my mentors.,0,1
+1688,Collaborative editing tools have made remote teamwork so much smoother.,0,1
+1689,Effective delegation is about trusting your team to deliver great results.,0,1
+1690,Grateful for the chance to work on a project that actually helps people.,0,1
+1691,Hybrid work models offer the perfect balance of focus and social interaction.,0,1
+1692,I spent the morning learning about new cloud architecture patterns.,0,1
+1693,It is always a good day when the build passes on the first attempt.,0,1
+1694,Just finished a great biography of a pioneer in computer science.,0,1
+1695,Keeping my desktop clean helps me keep my thoughts organized as well.,0,1
+1696,Learning to listen more than I speak has been my best career move so far.,0,1
+1697,One simple way to stay organized is to end each day by writing a list for tomorrow.,0,1
+1698,Our company just crossed the one million user mark and it feels incredible.,0,1
+1699,Our latest software update just rolled out and the feedback is fantastic.,0,1
+1700,Professional growth is often found in the tasks that make you a bit nervous.,0,1
+1701,Public speaking is a skill that anyone can learn with enough practice.,0,1
+1702,Seeing a junior designer gain confidence in their work is so rewarding.,0,1
+1703,Solving a bug that has been bothering the team for a week is a great feeling.,0,1
+1704,Standardizing our code reviews has significantly improved our shipping speed.,0,1
+1705,The new office library is a perfect spot for quiet focus and research.,0,1
+1706,We just expanded our operations to a new country and the energy is high.,0,1
+1707,Understanding the business side of tech makes you a better engineer.,0,1
+1708,Today was one of those days where the code just flowed effortlessly.,0,1
+1709,The pace of change in our industry keeps every day interesting.,0,1
+1710,The company charity drive was a massive success this year.,0,1
+1711,Personal branding is just about showing up consistently and being helpful.,0,1
+1712,Our internal knowledge base has become an invaluable resource for everyone.,0,1
+1713,Mentoring someone is a great way to reinforce your own knowledge.,0,1
+1714,Managing your energy is just as important as managing your time.,0,1
+1715,Looking forward to the networking event at the tech hub this evening.,0,1
+1716,It is important to acknowledge the hard work of the support staff every day.,0,1
+1717,Investing in a high quality chair was the best thing I did for my workspace.,0,1
+1718,I am proud to work on a team that values quality over quick fixes.,0,1
+1719,Had a very productive strategy session with the marketing team today.,0,1
+1720,Excited to start a new course on data science and machine learning.,0,1
+1721,Every failed experiment is just more data for the next successful one.,0,1
+1722,Cross functional workshops are where the most innovative ideas are born.,0,1
+1723,Consistency over intensity is the key to avoiding professional burnout.,0,1
+1724,Communication is the bridge between a good idea and a great product.,0,1
+1725,Clear requirements prevent ninety percent of project delays.,0,1
+1726,Clear goals are the primary driver of high performing teams.,0,1
+1727,Always take the time to document your logic for the people who come after you.,0,1
+1728,A minimalist desk setup really helps me stay concentrated on my screen.,0,1
+1729,A kind word to a colleague can change the entire mood of the office.,0,1
+1730,A positive work environment is built one interaction at a time.,0,1
+1731,A quick standup can save hours of back and forth emails.,0,1
+1732,Attending a seminar on ethical AI and its implications for society.,0,1
+1733,Automation frees up our brains for the problems that really matter.,0,1
+1734,Building trust within a team takes time but it is worth the effort.,0,1
+1735,Curiosity is the engine that drives professional excellence.,0,1
+1736,Deepening my understanding of cybersecurity best practices this month.,0,1
+1737,Design systems are the backbone of a consistent user experience.,0,1
+1738,Finding the right tool for the job makes the work so much more enjoyable.,0,1
+1739,Good documentation is the sign of a mature engineering culture.,0,1
+1740,Growth requires a willingness to be wrong and a desire to get it right.,0,1
+1741,Helping a teammate debug their code is a great way to bond.,0,1
+1742,I am amazed at what we can achieve when we work toward a common goal.,0,1
+1743,I am constantly inspired by the creativity of the design team.,0,1
+1744,Journaling about my work day helps me identify areas for improvement.,0,1
+1745,Listening to an interview with a top CEO during my morning run.,0,1
+1746,Looking forward to the challenges of the upcoming development cycle.,0,1
+1747,Our annual report shows that we are leading the market in innovation.,0,1
+1748,Our commitment to accessibility is making our product better for everyone.,0,1
+1749,Resilience is developed by facing small challenges every single day.,0,1
+1750,Taking initiative on a small project can lead to big opportunities.,0,1
+1751,The best meetings are the ones where everyone comes prepared.,0,1
+1752,Writing down my intentions for the week keeps me from getting distracted.,0,1
+1753,Working with diverse perspectives lead to more robust software.,0,1
+1754,The progress we have made on the legacy codebase is impressive.,0,1
+1755,The energy of a small startup is unmatched and very exciting.,0,1
+1756,Success is better when it is shared with a team you respect.,0,1
+1757,Strategic thinking is a muscle that needs regular exercise.,0,1
+1758,Staying up to date with the latest research is part of the fun.,0,1
+1759,Refined my public speaking skills by presenting to the team today.,0,1
+1760,Proud to represent our company at the national conference.,0,1
+1761,Proud to present our new feature at the company wide demo today.,0,1
+1762,Professionalism is about consistency in your quality and your conduct.,0,1
+1763,New partnerships are opening up exciting possibilities for our product.,0,1
+1764,Learning the nuances of project management from the senior leads.,0,1
+1765,Learning from the best in the industry is a shortcut to mastery.,0,1
+1766,Leadership is about creating an environment where others can succeed.,0,1
+1767,Gratitude for a career that challenges me to grow every day.,0,1
+1768,Flexible schedules allow for a much better quality of life.,0,1
+1769,Effectiveness is about focus while efficiency is about speed.,0,1
+1770,Delivering a complex project on time is a massive win for the team.,0,1
+1771,Constructive criticism is essential for anyone who wants to improve.,0,1
+1772,Collaboration is the multiplier that makes teams greater than individuals.,0,1
+1773,Clarity is kindness when it comes to giving project feedback.,0,1
+1774,Blocking out time for deep work is the only way I get things done.,0,1
+1775,Being proactive allows you to control the narrative of your career.,0,1
+1776,A strong mission gives the work a sense of purpose and direction.,0,1
+1777,A quick break to look at some art helps spark my creativity.,0,1
+1778,A positive mindset is a choice you make every morning.,0,1
+1779,A well defined scope is the best friend of any project manager.,0,1
+1780,Being a lifelong learner is the best insurance for your career.,0,1
+1781,Better habits lead to better focus and better work results.,0,1
+1782,Building something that people actually use is a great feeling.,0,1
+1783,Career paths are rarely linear and that is perfectly okay.,0,1
+1784,Creative solutions often come from the most unexpected places.,0,1
+1785,Customer feedback sessions are a reality check that we all need.,0,1
+1786,Diversity of thought leads to better problem solving every time.,0,1
+1787,Every mistake is just a stepping stone on the path to mastery.,0,1
+1788,Hard work and focus are the keys to any major career milestone.,0,1
+1789,Inclusion is about making sure everyone has a seat at the table.,0,1
+1790,Innovation is often just a new combination of existing ideas.,0,1
+1791,Integrity is the most valuable asset any professional can have.,0,1
+1792,Mentoring others is just as much a learning experience for me.,0,1
+1793,Mentorship has played a massive role in where I am today.,0,1
+1794,Mutual respect is the foundation of any healthy office culture.,0,1
+1795,Organization is the key to managing a high volume of work.,0,1
+1796,Quiet mornings are when I do my most creative work.,0,1
+1797,Seeing our software improve lives is why I love this industry.,0,1
+1798,Setting boundaries allows you to bring your best self to work.,0,1
+1799,Social responsibility should be at the core of every business model.,0,1
+1800,Team building events are a great way to get to know the people behind the roles.,0,1
+1801,The potential of new markets keeps our strategy sessions lively.,0,1
+1802,The success of our product is a testament to our user research.,0,1
+1803,Teamwork makes the dream work is a cliché because it is true.,0,1
+1804,Success is defined by the impact we have on the world around us.,0,1
+1805,Stress management is a critical skill for any long term career.,0,1
+1806,Staying ahead of the curve requires constant curiosity and effort.,0,1
+1807,Small daily goals lead to massive long term achievements.,0,1
+1808,Resilience is what allows a team to overcome any obstacle.,0,1
+1809,Professional growth is the result of consistent effort over time.,0,1
+1810,Positive client testimonials are the best reward for our hard work.,0,1
+1811,Our team success is built on a foundation of mutual trust.,0,1
+1812,Networking has introduced me to some of the smartest people I know.,0,1
+1813,Looking forward to the new opportunities for professional development.,0,1
+1814,Keeping the big picture in mind helps me stay calm during busy weeks.,0,1
+1815,Internal training programs are a great investment in the team.,0,1
+1816,Integrating new tech into our flow has saved us so much time.,0,1
+1817,Innovative solutions come from a culture that encourages risk.,0,1
+1818,Innovation starts with the willingness to ask why we do things this way.,0,1
+1819,High standards in our work lead to high levels of client trust.,0,1
+1820,Great colleagues make the challenging days much easier to handle.,0,1
+1821,Grateful for a job that keeps me on my toes and learning.,0,1
+1822,Finishing a difficult task provides a great boost to my confidence.,0,1
+1823,Empathy allows us to build products that truly resonate with users.,0,1
+1824,Contributing to a meaningful project is highly motivating.,0,1
+1825,Continuous improvement is a mindset not just a process.,0,1
+1826,Collaborative energy is what makes a workspace feel alive.,0,1
+1827,Collaboration is the best way to turn a good idea into a reality.,0,1
+1828,Adaptability is the most important skill in the modern workforce.,0,1
+1829,Active listening is the most underrated communication skill.,0,1
+1830,A strong work ethic is a habit that pays off in every area of life.,0,1
+1831,A good manager is one who helps you see your own potential.,0,1
+1832,A clear vision helps us navigate the complexities of our industry.,0,1
